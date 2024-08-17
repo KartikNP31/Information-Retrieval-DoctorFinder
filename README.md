@@ -3,34 +3,34 @@ IR Mini Project - Understanding Text in Health Domain - (Find Doctor)
 
 
 
---> Install required library
-    pip install django
-    pip install pandas
-    pip install matplotlib
-    pip install numpy
-    pip install bs4
+# Install required library
+-    pip install django
+-    pip install pandas
+-    pip install matplotlib
+-    pip install numpy
+-    pip install bs4
  
 
---> How to Run Application - follow the below steps
-    1.  Unzip P29-MiniProject-LETAP.zip 
-    2.  Open in terminal -> P29-MiniProject-LETAP
-    3.  Run following commands in the terminal one-by-one (Note that parent directory should be 'P29-MiniProject-LETAP'): 
-            > cd code 
-            > python manage.py runserver
-    4. search for the link in the Chrome :  http://127.0.0.1:8000/
+## How to Run Application - follow the below steps
+-    1.  Unzip P29-MiniProject-LETAP.zip 
+-    2.  Open in terminal -> P29-MiniProject-LETAP
+-    3.  Run following commands in the terminal one-by-one (Note that parent directory should be 'P29-MiniProject-LETAP'): 
+            >- cd code 
+            >- python manage.py runserver
+-    4. search for the link in the Chrome :  http://127.0.0.1:8000/
 
 
 
 
----> Try this Example : 
-        City : Bangalore
+## Try this Example : 
+        `City : Bangalore
         Speciality : general surgeon
-        Locality : Whitefield
+        Locality : Whitefield`
 
 
 
 
---> About Project -
+### About Project -
     1.  Understanding Text in Health Domain - (Find Doctor) is a Information Retrieval project 
     2.  It search for doctor as per user input preference.
     3.  3 input choice are given to user, namely - 
@@ -47,7 +47,7 @@ IR Mini Project - Understanding Text in Health Domain - (Find Doctor)
 
 
 
---> Dataset - 
+## Dataset - 
     1. Dataset is collected by web-crawling of the website : Practo.com
     2. We have collected around oneLakh list of document containing following information of Doctor : 
         DoctorName,Experience,Speciality,Fees,Rating,Locality,City
