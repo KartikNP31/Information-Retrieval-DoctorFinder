@@ -5,17 +5,16 @@ IR Mini Project - Understanding Text in Health Domain - (Find Doctor)
 
 # Install required library
 -    pip install django
--    pip install pandas
+-    pip install django
 -    pip install matplotlib
 -    pip install numpy
 -    pip install bs4
  
 
 ## How to Run Application - follow the below steps
--    1.  Unzip P29-MiniProject-LETAP.zip 
--    2.  Open in terminal -> P29-MiniProject-LETAP
--    3.  Run following commands in the terminal one-by-one (Note that parent directory should be 'P29-MiniProject-LETAP'): 
-            >- cd code 
+-    1.  Unzip Information-Retrieval-DoctorFinder.zip 
+-    2.  Open in terminal -> Information-Retrieval-DoctorFinder
+-    3.  Run following commands in the terminal one-by-one (Note that parent directory should be 'Information-Retrieval-DoctorFinder'): 
             >- python manage.py runserver
 -    4. search for the link in the Chrome :  http://127.0.0.1:8000/
 
