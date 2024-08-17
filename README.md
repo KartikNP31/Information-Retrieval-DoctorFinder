@@ -23,9 +23,9 @@ IR Mini Project - Understanding Text in Health Domain - (Find Doctor)
 
 
 ## Try this Example : 
-        `City : Bangalore
+        City : Bangalore
         Speciality : general surgeon
-        Locality : Whitefield`
+        Locality : Whitefield
 
 
 
