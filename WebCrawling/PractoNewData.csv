@@ -1,0 +1,1466 @@
+Doctor Name,Experience,Speciality,Fees,Rating,Locality,City
+Dr. Reshma Phulwar,27,Pediatricia,500,96% ,Chembur,Mumbai
+Dr. Parag M. Khatri,30,Pediatricia,500,99% ,Andheri East,Mumbai
+Dr. Sanket Mehta,18,Pediatricia,500,99% ,Matunga,Mumbai
+Dr. Manoj Bodhwani,17,Pediatricia,700,98% ,Khar West,Mumbai
+Dr. Rajesh Shetty,27,Pediatricia,1000,98% ,Bandra West,Mumbai
+Dr. Gautam Laud,25,Pediatricia,1000,98% ,Kemps Corner,Mumbai
+Dr. Manish Kachhara,21,Pediatricia,500,99% ,Ghatkopar East,Mumbai
+Dr. Deepali Bhanushali,16,Pediatricia,500,98% ,Ghatkopar,Mumbai
+Dr. Manish S. Sonawane,18,Pediatricia,500,98% ,Lokhandwala,Mumbai
+Dr. Manisha Mehta,17,Pediatricia,500,98% ,Worli,Mumbai
+Dr. Jatin Ashar,14,Pediatricia,1000,96% ,Ghatkopar,Mumbai
+Dr. Siddharth Relan,25,Pediatricia,500,100% ,Malad West,Mumbai
+Dr. Ayush Sharma,15,Pediatricia,1500,91% ,Wadala,Mumbai
+Dr. Varun Sanjay Gunavanthe,18,Pediatricia,2000,97% ,Vileparle West,Mumbai
+Dr. Mihir Patel,18,Pediatricia,2000,100% ,Vileparle West,Mumbai
+Dr. Aditi Agrawal,18,Pediatricia,800,97% ,Borivali West,Mumbai
+Dr. Ankesh Sahetya,15,Pediatricia,1200,100% ,Andheri West,Mumbai
+Dr. Rikesh Singh,16,Pediatricia,1000,100% ,Jogeshwari West,Mumbai
+Dr. Ranjan Burnwal,14,Pediatricia,1200,100% ,Chembur,Mumbai
+Dr. Swapnil Tople,15,Pediatricia,1500,89% ,Wadala,Mumbai
+Dr. R K Deshpande,41,Pediatricia,4000,98% ,Kemps Corner,Mumbai
+Dr. Nasreen Gite,16,Pediatricia,1500,100% ,Chembur,Mumbai
+Dr. Sachin Pahade,22,Pediatricia,1500,100% ,Goregaon West,Mumbai
+Dr. Niraj B. Singh,19,Pediatricia,1000,100% ,Borivali West,Mumbai
+Dr. M T Khan,15,Pediatricia,1200,100% ,Chembur,Mumbai
+Dr. Samir Parekh,20,Pediatricia,1500,100% ,Kandivali,Mumbai
+Dr. Pankaj Gandhi,22,Pediatricia,1000,100% ,Goregaon West,Mumbai
+Dr. Sanjay Sharma,47,Pediatricia,4000,80% ,Kemps Corner,Mumbai
+Dr. Kulkarni Jagadeesh Narharrao,51,Pediatricia,5000,100% ,Kemps Corner,Mumbai
+Dr. Siddharth V. Nachane,15,Pediatricia,1500,100% ,Wadala,Mumbai
+Dr. Pradnya Roy,23,Pediatricia,1000,100% ,Jogeshwari West,Mumbai
+Dr. Sachin Bhat,25,Pediatricia,1500,100% ,Goregaon West,Mumbai
+Dr. Umesh Shetty,33,Pediatricia,1500,83% ,Andheri West,Mumbai
+Dr. Amit Aroskar,24,Pediatricia,800,100% ,Borivali West,Mumbai
+Dr. Nikhil Surana,14,Pediatricia,500,97% ,Kandivali East,Mumbai
+Dr. Laxman Salve,22,Pediatricia,2000,99% ,Chembur,Mumbai
+Dr. Suhani Talesara,14,Pediatricia,500,100% ,Jogeshwari,Mumbai
+Dr. Jaideep Mankani,32,Pediatricia,1000,94% ,Kandivali East,Mumbai
+Dr. Rajendra Sankpal,31,Pediatricia,600,95% ,Powai,Mumbai
+Dr. Shaival Chauhan,18,Pediatricia,1000,99% ,Ghatkopar West,Mumbai
+Dr. Jeevan Shetty,24,Pediatricia,500,96% ,Powai,Mumbai
+Dr. Jiten Chowdhry,30,Pediatricia,1000,94% ,Bhandup West,Mumbai
+Dr. Aditya Sai,17,Pediatricia,2000,96% ,Powai,Mumbai
+Dr. Fayyaz A Sattar,32,Pediatricia,800,97% ,Andheri West,Mumbai
+Dr. Alok Shah,12,Pediatricia,300,98% ,Powai,Mumbai
+Dr. Priya Sawant,21,Pediatricia,700,100% ,Santacruz East,Mumbai
+Dr. Surabhi Deshpande,6,Pediatricia,1000,94% ,Ghatkopar West,Mumbai
+Dr. Rajendra S Sankpal,29,Pediatricia,1000,98% ,Malad West,Mumbai
+Dr. Hitesh Shah,35,Pediatricia,1500,99% ,Kandivali West,Mumbai
+Dr. Priyanka Deshpande,20,Pediatricia,600,99% ,Borivali West,Mumbai
+Dr. Uday Tamhankar,39,Pediatricia,300,100% ,Borivali West,Mumbai
+Dr. Anjali Jitendra Bapat,37,Pediatricia,1000,95% ,Mahim,Mumbai
+Dr. Rati Chadha,15,Pediatricia,500,99% ,Bandra West,Mumbai
+Dr. Amit Vora,19,Pediatricia,1000,97% ,Bhandup West,Mumbai
+Dr. Bhavesh Gohil,23,Pediatricia,600,99% ,Wadala,Mumbai
+Dr. Hetal Chheda,16,Pediatricia,400,98% ,Borivali West,Mumbai
+Dr. Vidya Patil,27,Pediatricia,1000,88% ,Kandivali West,Mumbai
+Dr. Priyanka Sukthankar   (Physiotherapist),15,Pediatricia,700,99% ,Andheri East,Mumbai
+Dr. Sandesh S Kumar,22,Pediatricia,500,98% ,Mulund West,Mumbai
+Dr. Charmi Mehta,13,Pediatricia,200,100% ,Kandivali West,Mumbai
+Dr. Devang Shah,13,Pediatricia,300,97% ,Kandivali West,Mumbai
+Dr. Disha Sanghvi,15,Pediatricia,500,100% ,Versova,Mumbai
+Dr. Preeti Hooda,13,Pediatricia,300,100% ,Kandivali East,Mumbai
+Dr. Kukreja A. Kalani,26,Pediatricia,500,98% ,Powai,Mumbai
+Dr. Rohan Sawant   (Physiotherapist),10,Pediatricia,400,100% ,Kandivali West,Mumbai
+Dr. Shruti Purohit,12,Pediatricia,300,97% ,Kandivali East,Mumbai
+Dr. Kuldip Raj Kohli,41,Pediatricia,1000,100% ,Lower Parel,Mumbai
+Dr. Keyur Mehta,16,Pediatricia,1000,100% ,Khar West,Mumbai
+Dr. Nishant Gandhi,17,Pediatricia,500,98% ,Powai,Mumbai
+Dr. Upasana Gosalia,14,Pediatricia,350,100% ,Ghatkopar East,Mumbai
+Dr. Nitin Goradia,31,Pediatricia,1500,97% ,Grant Road,Mumbai
+Dr. Shalini Pal,16,Pediatricia,350,100% ,Marol,Mumbai
+Dr. Parag Shah,21,Pediatricia,600,99% ,Ghatkopar East,Mumbai
+Dr. Siddhi Dinesh Prabhu,13,Pediatricia,300,100% ,Grant Road,Mumbai
+Dr. Gaurav Poplai,15,Pediatricia,500,99% ,Bandra West,Mumbai
+Dr. Dipika Bharani,14,Pediatricia,500,99% ,Vileparle East,Mumbai
+Dr. Harsh Haren Shah,13,Pediatricia,200,99% ,Mira Road,Mumbai
+Dr. Bhavin Shah,14,Pediatricia,500,99% ,Goregaon East,Mumbai
+Dr. Nanda R Kumar,20,Pediatricia,1000,90% ,Chembur East,Mumbai
+Dr. Meghal Shah,17,Pediatricia,400,99% ,Vileparle East,Mumbai
+Dr. Sagar D. Barkade,17,Pediatricia,500,99% ,Chembur,Mumbai
+Dr. Balkrishna M Inamdar,44,Pediatricia,1000,92% ,Goregaon West,Mumbai
+Dr. Ashish Agarwal,34,Pediatricia,1500,97% ,Matunga,Mumbai
+Dr. Gouri Sultane Gupta,20,Pediatricia,1000,91% ,Goregaon West,Mumbai
+Dr. Manjushri Kothekar,19,Pediatricia,1000,100% ,Chembur,Mumbai
+Dr. Pooja Kukreja,13,Pediatricia,500,100% ,Khar West,Mumbai
+Dr. Bharat Porwal,30,Pediatricia,500,99% ,Lower Parel,Mumbai
+Dr. Sonal Malguria Bhasin,26,Pediatricia,300,98% ,Santacruz West,Mumbai
+Dr. Varun Parikh,15,Pediatricia,500,99% ,Ghatkopar East,Mumbai
+Dr. Vikas Halwai,14,Pediatricia,800,91% ,Chinchpokli,Mumbai
+Dr. Yuvaraja S Shetty,18,Pediatricia,1000,99% ,Mulund West,Mumbai
+Dr. Vicky Jain,17,Pediatricia,1500,99% ,Opera House,Mumbai
+Dr. Amit Majethia,13,Pediatricia,500,100% ,Ghatkopar East,Mumbai
+Dr. Vikas Jain,16,Pediatricia,1000,95% ,Chembur East,Mumbai
+Dr. Pradnya Randive,17,Pediatricia,1200,95% ,Bhandup West,Mumbai
+Dr. Ambika Arora,12,Pediatricia,2000,100% ,Tilak Nagar,Mumbai
+Dr. Dinesh Kumar Joshi   (Physiotherapist),7,Pediatricia,800,100% ,Goregaon West,Mumbai
+Dr. Darshan Sheth,15,Pediatricia,500,98% ,Ghatkopar East,Mumbai
+Dr. C. B. Munjewar,17,Pediatricia,1500,98% ,Ghatkopar,Mumbai
+Dr. Mikeen Shah,14,Pediatricia,600,96% ,Andheri East,Mumbai
+Dr. Chetan Lokhande,13,Pediatricia,1300,100% ,Kurla East,Mumbai
+Dr. Sheena Soni,9,Pediatricia,500,96% ,Colaba,Mumbai
+Dr. Darshan Desai,22,Pediatricia,1600,98% ,Borivali West,Mumbai
+Dr. Devanshi Shah,12,Pediatricia,1000,99% ,Ghatkopar East,Mumbai
+Dr. Amit Oswal,14,Pediatricia,200,92% ,Lal baug,Mumbai
+Dr. Sujata Chitnis,42,Pediatricia,1000,100% ,Vileparle East,Mumbai
+Dr. Rishika Chauhan,14,Pediatricia,1300,100% ,Ghatkopar West,Mumbai
+Dr. Mayuri Jobanputra Shah,13,Pediatricia,500,97% ,Borivali West,Mumbai
+Dr. Yogesh P Mehta,38,Pediatricia,1000,99% ,Ghatkopar West,Mumbai
+Dr. Samarjit S. Bansal,17,Pediatricia,600,99% ,Borivali,Mumbai
+Dr. Chetan Bhole,25,Pediatricia,500,93% ,Mulund East,Mumbai
+Dr. Pratima S  Wagh,28,Pediatricia,800,100% ,Kandivali,Mumbai
+Dr. Shlesha Shah,16,Pediatricia,300,99% ,Mulund West,Mumbai
+Dr. Seema S. Masrani,30,Pediatricia,1000,93% ,Kandivali West,Mumbai
+Dr. Punit Kaur Anand Khalsa,8,Pediatricia,200,99% ,Chembur East,Mumbai
+Dr. Avya Bansal,9,Pediatricia,1500,99% ,Bandra West,Mumbai
+Dr. Bindu Gohil Mulekar,32,Pediatricia,1000,75% ,Malad West,Mumbai
+Dr. Abhijit  Jadhav,23,Pediatricia,1500,98% ,Mulund East,Mumbai
+Dr. Kiran Makwana,13,Pediatricia,700,92% ,Borivali East,Mumbai
+Dr. Rekha Kadam,25,Pediatricia,800,92% ,Andheri West,Mumbai
+Dr. Jainika,7,Pediatricia,100,100% ,Dahisar East,Mumbai
+Dr. Reetu Kait,6,Pediatricia,200,92% ,Mira Road,Mumbai
+Dr. Rhea Abraham,17,Pediatricia,500,100% ,Andheri East,Mumbai
+Dr. Aashish Tiwari,15,Pediatricia,300,100% ,Tilak Nagar,Mumbai
+Dr. Yash Girish Shete,8,Pediatricia,500,100% ,Malad West,Mumbai
+Dr. Mitali Gandhi,14,Pediatricia,400,100% ,Ghatkopar East,Mumbai
+Dr. Tanuja Uchil,26,Pediatricia,1200,94% ,Chembur East,Mumbai
+Dr. Sanjeev Upadhyaya,24,Pediatricia,2500,100% ,Marine Drive,Mumbai
+Dr. Maithil Thakkar,15,Pediatricia,600,99% ,Chembur West,Mumbai
+Dr. Shruti Thar,12,Pediatricia,1000,100% ,Mulund West,Mumbai
+Dr. Wishi Parihar,12,Pediatricia,200,95% ,Mira Road,Mumbai
+Dr. Ujjvala Jadhav,24,Pediatricia,1000,93% ,Goregaon East,Mumbai
+Dr. Pooja Gawand,13,Pediatricia,500,98% ,Mulund West,Mumbai
+Dr. Sangita B Manek,25,Pediatricia,800,100% ,Bhandup West,Mumbai
+Dr. Nutan Hegde,20,Pediatricia,900,98% ,Dadar West,Mumbai
+Dr. Salaah Qureshi,20,Pediatricia,1500,100% ,Seven Bungalows,Mumbai
+Dr. Sonal K Shah,13,Pediatricia,500,100% ,JB Nagar,Mumbai
+Dr. Asavari Dongre,17,Pediatricia,1000,97% ,Matunga,Mumbai
+Dr. Prabhjot Manchanda,13,Pediatricia,800,90% ,Ghatkopar East,Mumbai
+Dr. Amar Ravjiani,31,Pediatricia,750,98% ,Ghatkopar East,Mumbai
+Dr. Shoaib Akhai,14,Pediatricia,300,100% ,Lower Parel,Mumbai
+Dr. Joshika Bhandary,12,Pediatricia,1200,100% ,Andheri West,Mumbai
+Dr. Raksha Savla,13,Pediatricia,500,96% ,Andheri West,Mumbai
+Dr. Rabiah Patel,15,Pediatricia,300,100% ,Andheri West,Mumbai
+Dr. Atul Patil,12,Pediatricia,900,97% ,Mulund East,Mumbai
+Dr. Sonal H Sanghavi,29,Pediatricia,1500,100% ,Borivali West,Mumbai
+Dr. Kinnari,11,Pediatricia,200,100% ,Borivali West,Mumbai
+Dr. Sachin Salunkhe,13,Pediatricia,500,100% ,Mulund West,Mumbai
+Dr. Ankesh Jain,13,Pediatricia,800,100% ,Mazgaon,Mumbai
+Dr. Angad Shetye,13,Pediatricia,500,100% ,Kandivali West,Mumbai
+Dr. Sumit Bohra,12,Pediatricia,500,100% ,Prabhadevi,Mumbai
+Dr. Madhura Nayak,13,Pediatricia,500,100% ,Goregaon West,Mumbai
+Dr. Punit Vinod Garg,9,Pediatricia,1000,100% ,Malad West,Mumbai
+Dr. Govind Lihinar,10,Pediatricia,500,96% ,Tilak Nagar,Mumbai
+Dr. Ameera Lakha,8,Pediatricia,500,100% ,Khar West,Mumbai
+Dr. Ashna Godhwani,8,Pediatricia,500,100% ,Bandra West,Mumbai
+Dr. Gautam Kikeri,25,Pediatricia,700,100% ,Powai,Mumbai
+Dr. Amit Jain,9,Pediatricia,1500,100% ,Goregaon West,Mumbai
+Dr. Neha Mistry,23,Pediatricia,500,100% ,Mulund West,Mumbai
+Dr. Gautami Sharangpani,8,Pediatricia,600,96% ,Kandivali East,Mumbai
+Dr. Suraj Shetty,14,Pediatricia,1200,99% ,Andheri West,Mumbai
+Dr. Varun H Shah,15,Pediatricia,1200,100% ,Borivali West,Mumbai
+Dr. Shagun A Verma,15,Pediatricia,1000,100% ,Khar West,Mumbai
+Dr. Shantanu  K Kundgir,20,Pediatricia,1500,91% ,Bandra West,Mumbai
+Dr. Jay Mehta,12,Pediatricia,3000,83% ,Ghatkopar East,Mumbai
+Dr. Priyanka S. Udeshi,9,Pediatricia,500,100% ,Prabhadevi,Mumbai
+Dr. Parampreet Kohli,10,Pediatricia,1000,100% ,Andheri West,Mumbai
+Dr. Neha Palvia Parikh,14,Pediatricia,1000,100% ,Ghatkopar East,Mumbai
+Dr. Suhas Vilasrao Aagre,10,Pediatricia,2000,95% ,Chembur,Mumbai
+Dr. Rajashri Shanbhag,27,Pediatricia,800,100% ,Jogeshwari East,Mumbai
+Dr. Priya Karande   (Physiotherapist),11,Pediatricia,500,100% ,Parel,Mumbai
+Dr. Sandip Bhurke,27,Pediatricia,2000,93% ,Andheri West,Mumbai
+Dr. Reema Nanavati,15,Pediatricia,500,100% ,Goregaon East,Mumbai
+Dr. Pooja Sable,10,Pediatricia,500,100% ,Kandivali West,Mumbai
+Dr. Nihar P Thakkar,13,Pediatricia,300,100% ,Mulund West,Mumbai
+Dr. Deven Dabholkar,14,Pediatricia,300,95% ,Borivali West,Mumbai
+Dr. Meenu Dinesh,7,Pediatricia,200,97% ,Chembur East,Mumbai
+Dr. Kruti Dholakia,15,Pediatricia,500,98% ,Andheri West,Mumbai
+Dr. Gunjan Patel,15,Pediatricia,200,100% ,Mulund West,Mumbai
+Dr. Akshay Bandewar,11,Pediatricia,300,100% ,Chembur East,Mumbai
+Dr. Preeti Shetty,20,Pediatricia,300,88% ,Kandivali West,Mumbai
+Dr. Kinjal Shah,14,Pediatricia,2200,100% ,Kandivali West,Mumbai
+Dr. Kapil Jain,10,Pediatricia,600,100% ,Borivali West,Mumbai
+Dr. Pravin A. Singh   (Physiotherapist),15,Pediatricia,500,100% ,Vikhroli,Mumbai
+Dr. Jayesh Ghuge,8,Pediatricia,200,100% ,Mira Road,Mumbai
+Dr. Samvaad Shetty,11,Pediatricia,1500,100% ,Andheri East,Mumbai
+Dr. Deepika Asati,19,Pediatricia,800,95% ,Kandivali East,Mumbai
+Dr. Arun Fegde,50,Pediatricia,300,100% ,Dadar West,Mumbai
+Dr. Bhadra P. Vaidya,21,Pediatricia,700,98% ,Goregaon West,Mumbai
+Dr. Aaditi Mahajan,13,Pediatricia,650,100% ,Chembur East,Mumbai
+Dr. Srushti Garg,10,Pediatricia,300,100% ,Borivali West,Mumbai
+Dr. Sharin Jacob,11,Pediatricia,300,100% ,Borivali West,Mumbai
+Dr. Vivek Salunke,26,Pediatricia,1500,100% ,Goregaon East,Mumbai
+Dr. Shouvik Chowdhury,17,Pediatricia,300,100% ,Bhandup West,Mumbai
+Dr. Shishir Singh,35,Pediatricia,500,100% ,Khar West,Mumbai
+Dr. Neeta Korgaonkar,20,Pediatricia,700,98% ,Vikhroli East,Mumbai
+Dr. Sanjay Erande,17,Pediatricia,1000,100% ,Dadar West,Mumbai
+Dr. Shruti Shinde,9,Pediatricia,350,100% ,Andheri West,Mumbai
+Dr. Priyanka Jairaj Dalvi,12,Pediatricia,500,100% ,Vileparle West,Mumbai
+Dr. Premlata Jaiswal   (Physiotherapist),11,Pediatricia,300,95% ,Mira Road,Mumbai
+Dr. Shruti Chavan,13,Pediatricia,1200,100% ,Andheri West,Mumbai
+Dr. Rohit Barnabas,12,Pediatricia,2000,100% ,Ghatkopar West,Mumbai
+Dr. Mayur Rabhadiya,10,Pediatricia,1000,97% ,Ghatkopar West,Mumbai
+Dr. Ayesha,7,Pediatricia,800,100% ,Andheri West,Mumbai
+Dr. Ritu Shah,12,Pediatricia,1000,92% ,Andheri East,Mumbai
+Dr. P M Bhanej,54,Pediatricia,700,100% ,Malad West,Mumbai
+Dr. Himanshu Shah,15,Pediatricia,500,97% ,Lamington Road,Mumbai
+Dr. Nilima Paranjpe,28,Pediatricia,650,98% ,Malad West,Mumbai
+Dr. Kripal M Panchal   (Physiotherapist),7,Pediatricia,1000,100% ,Malad East,Mumbai
+Dr. Nitesh B. Karnire,14,Pediatricia,1000,86% ,Bandra East,Mumbai
+Dr. Abhishek Ramesh Chauhan,15,Pediatricia,1000,94% ,Ghatkopar West,Mumbai
+Dr. Anirudh Kamtam,6,Pediatricia,300,100% ,Prabhadevi,Mumbai
+Dr. Shraddha Deshmukh,10,Pediatricia,100,100% ,Kandivali East,Mumbai
+Dr. Kamales Kumar Saha,37,Pediatricia,3300,91% ,Goregaon East,Mumbai
+Dr. Pramod Patil,16,Pediatricia,2000,99% ,Borivali East,Mumbai
+Dr. Amey Jadhav,11,Pediatricia,400,100% ,Parel,Mumbai
+Dr. Shivani Gupta,8,Pediatricia,300,100% ,Chinchpokli,Mumbai
+Dr. Pratiksha Tiwari,8,Pediatricia,300,100% ,Mulund East,Mumbai
+Dr. Shailesh Rojekar,31,Pediatricia,800,96% ,Prabhadevi,Mumbai
+Ms. Shubhangi Deshmukh,21,Pediatricia,1200,100% ,Powai,Mumbai
+Dr. Manish Purohit,13,Pediatricia,100,98% ,Kandivali East,Mumbai
+Dr. Neelu Jain   (Physiotherapist),33,Pediatricia,600,99% ,Kandivali West,Mumbai
+Dr. Rais Ansari,23,Pediatricia,3500,98% ,Worli,Mumbai
+Dr. Prarthana Thakkar,6,Pediatricia,500,100% ,Ghatkopar East,Mumbai
+Dr. Julie Davda,17,Pediatricia,400,100% ,Bhandup,Mumbai
+Dr. Anshul Gupta,14,Pediatricia,500,100% ,Andheri West,Mumbai
+Dr. Saudnya Rudrawar,6,Pediatricia,300,100% ,Chembur East,Mumbai
+Dr. Vinaykumar Thapar,29,Pediatricia,1100,91% ,Powai,Mumbai
+Dr. Noureen Hemani,16,Pediatricia,100,98% ,Dahisar East,Mumbai
+Dr. Rikin Gogri,22,Pediatricia,400,98% ,Goregaon West,Mumbai
+Dr. Aditya Dhawale,14,Pediatricia,1000,90% ,Ghatkopar West,Mumbai
+Dr. Yatishakumari Kesalikar   (Physiotherapist),4,Pediatricia,600,100% ,Borivali West,Mumbai
+Dr. Kerfegar Wadia,9,Pediatricia,700,88% ,Colaba,Mumbai
+Dr. K Neethu John   (Physiotherapist),11,Pediatricia,1000,100% ,Prabhadevi,Mumbai
+Dr. Saidu Mukesh Kota,6,Pediatricia,500,87% ,Dadar East,Mumbai
+Dr. Keerti Sachdeva (PhD)   (PhD),38,Pediatricia,2000,87% ,Andheri West,Mumbai
+Dr. Dhruti Raut Chavan,12,Pediatricia,500,98% ,Dadar East,Mumbai
+Dr. Rajiv Bhanej,22,Pediatricia,700,97% ,Malad West,Mumbai
+Dr. Vilas Kulkarni,53,Pediatricia,1000,97% ,Andheri West,Mumbai
+Dr. Shaikh Firdos Mukhtar Ahmed   (Physiotherapist),13,Pediatricia,1000,100% ,Prabhadevi,Mumbai
+Dr. Sejal Jain,13,Pediatricia,400,100% ,Vileparle West,Mumbai
+Dr. Niraj Jha   (Physiotherapist),17,Pediatricia,1000,97% ,Chembur,Mumbai
+Dr. Mohit Solanki,12,Pediatricia,500,98% ,Andheri West,Mumbai
+Dr. Brijesh Kumar Yadav,14,Pediatricia,500,96% ,Mira Road,Mumbai
+Ms. Smita Nanda R D,17,Pediatricia,1200,97% ,Kandivali East,Mumbai
+Dr. Harshida Pai   (Physiotherapist),13,Pediatricia,800,99% ,Andheri East,Mumbai
+Dr. Sagar J Abichandani,14,Pediatricia,500,95% ,Andheri West,Mumbai
+Dr. Fauzia Khimani Naaz,13,Pediatricia,500,99% ,Jacob Circle,Mumbai
+Dr. Pallavi Rathi,19,Pediatricia,1200,90% ,Andheri East,Mumbai
+Dr. Jeetendra Khatuja,15,Pediatricia,1000,99% ,Andheri West,Mumbai
+Dr. Mukul Kaushik,26,Pediatricia,2600,100% ,Powai,Mumbai
+Dr. Raina Nahar,15,Pediatricia,1000,93% ,Andheri West,Mumbai
+Dr. Dhvani Doshi,10,Pediatricia,600,50% ,Borivali West,Mumbai
+Dr. Amit Chavan,15,Pediatricia,500,99% ,Dadar East,Mumbai
+Dr. Meghna Mour,24,Pediatricia,3000,94% ,Senapati Bapat Marg,Mumbai
+Dr. Priyam Bhagat,20,Pediatricia,1500,97% ,Goregaon East,Mumbai
+Dr. Abhinav Tiwari,12,Pediatricia,900,99% ,Powai,Mumbai
+Dr. Khushboo Kadri,19,Pediatricia,1000,93% ,Bandra West,Mumbai
+Dr. Ajay Nimbalkar,12,Pediatricia,1200,95% ,Khar West,Mumbai
+Dr. Bharat Mali,9,Pediatricia,1000,100% ,Chira Bazaar,Mumbai
+Dr. Namita P. Patil,15,Pediatricia,1000,100% ,Borivali East,Mumbai
+Dr. Rohann Bokdawala,14,Pediatricia,2500,97% ,Marine Lines,Mumbai
+Dr. Mythily Sindhur Boreddy,10,Pediatricia,800,98% ,Powai,Mumbai
+Dr. Mohd Asif,11,Pediatricia,1000,100% ,Santacruz West,Mumbai
+Dr. Hardik Shah,8,Pediatricia,600,100% ,Kandivali,Mumbai
+Dr. Padagatti Shridhar,27,Pediatricia,1500,97% ,Mulund West,Mumbai
+Dr. Deep Garg,14,Pediatricia,500,100% ,Borivali West,Mumbai
+Dr. Aastha Chandra,12,Pediatricia,1000,100% ,Juhu,Mumbai
+Dr. Ritu Girdhar,16,Pediatricia,500,100% ,Wadala,Mumbai
+Dr. Anuj Shah,10,Pediatricia,500,60% ,Malad,Mumbai
+Dr. Shamsher,11,Pediatricia,800,90% ,Jogeshwari West,Mumbai
+Dr. Kiran Virpuriya,6,Pediatricia,500,96% ,Tilak Nagar,Mumbai
+Dr. Aditya Pardasany   (Physiotherapist),17,Pediatricia,1300,100% ,Bandra West,Mumbai
+Dr. Nimisha Mehta,9,Pediatricia,800,100% ,Mulund,Mumbai
+Dr. Sejal Khanolkar,21,Pediatricia,1000,98% ,Malad West,Mumbai
+Dr. Rahul Shetty,14,Pediatricia,1000,97% ,Vileparle West,Mumbai
+Dr. Subhash K Dhawale,23,Pediatricia,2500,100% ,Parel,Mumbai
+Dr. Ankita Gehi,11,Pediatricia,500,100% ,Bandra West,Mumbai
+Dr. Chandni Kotak,12,Pediatricia,1200,95% ,Malabar Hill,Mumbai
+Dr. Nida Merchant,4,Pediatricia,500,100% ,Bandra West,Mumbai
+Dr. Viral Maru,17,Pediatricia,1000,95% ,Girgaon,Mumbai
+Dr. Shahid Saiyed,11,Pediatricia,1000,96% ,Bandra West,Mumbai
+Dr. Shivangi Singh,19,Pediatricia,2000,100% ,Chembur East,Mumbai
+Dr. Gaurav Jain   (Physiotherapist),10,Pediatricia,500,96% ,Kandivali West,Mumbai
+Dr. Renubala Rout,17,Pediatricia,1000,100% ,Kandivali East,Mumbai
+Dr. Hiral Bhatt,13,Pediatricia,800,100% ,Andheri East,Mumbai
+Dr. Lohar Sachin Chindhu,8,Pediatricia,499,95% ,Andheri East,Mumbai
+Dr. Komal Dave,14,Pediatricia,500,97% ,Kandivali,Mumbai
+Dr. Malay Mehta,12,Pediatricia,1000,100% ,Vileparle West,Mumbai
+Dr. Soham Mallick,11,Pediatricia,500,99% ,Powai,Mumbai
+Dr. Nikhil D Datar,32,Pediatricia,1000,89% ,Malad West,Mumbai
+Dr. Swapnil Pande,14,Pediatricia,300,96% ,Mira-Bhayandar Road,Mumbai
+Dr. Bhushan S  Bawankar,13,Pediatricia,1200,94% ,Matunga West,Mumbai
+Dr. Manasi Dave,16,Pediatricia,1000,89% ,Kandivali,Mumbai
+Dr. Niteen Dedhia,40,Pediatricia,1200,71% ,Bandra West,Mumbai
+Dr. Ajay   (Physiotherapist),14,Pediatricia,700,97% ,Mulund West,Mumbai
+Dr. Prachi M Mhaskar,14,Pediatricia,299,100% ,Chembur,Mumbai
+Dr. Manisha Jethava,9,Pediatricia,1000,91% ,Mulund West,Mumbai
+Dr. Ameet Mandot,21,Pediatricia,1850,100% ,Parel,Mumbai
+Dr. Bhagyashree Bhargude,9,Pediatricia,500,100% ,Dadar West,Mumbai
+Dr. Baburao Kshirsagar,31,Pediatricia,299,67% ,Chembur,Mumbai
+Dr. Shraddha Shivgan,14,Pediatricia,1000,100% ,Chembur East,Mumbai
+Dr. Swati Subhash Dhawale,22,Pediatricia,2500,100% ,Parel,Mumbai
+Dr. Lubaina Tapia,6,Pediatricia,500,50% ,Dadar East,Mumbai
+Dr. Kainaz Billimoria,10,Pediatricia,500,100% ,Cumballa Hill,Mumbai
+Dr. Krystle Mascarenhas   (Physiotherapist),7,Pediatricia,500,97% ,Andheri,Mumbai
+Dr. Madhavi Shetty,10,Pediatricia,500,99% ,Turner Road,Mumbai
+Dr. Shilpa Abhyankar,29,Pediatricia,800,95% ,Dadar East,Mumbai
+Dr. Shantanu Jambhekar,16,Pediatricia,500,96% ,Parel,Mumbai
+Dr. Jayashree Todkar,31,Pediatricia,1500,97% ,Powai,Mumbai
+Dr. Ankit Mehta,10,Pediatricia,1000,89% ,Mulund,Mumbai
+Dr. Sunayana Dubey,22,Pediatricia,1000,94% ,Kandivali East,Mumbai
+Dr. Varsha Degwekar,36,Pediatricia,1000,84% ,Powai,Mumbai
+Dr. Madhushree Venkat,23,Pediatricia,1000,91% ,Mulund West,Mumbai
+Dr. Shrikant Badwe,45,Pediatricia,1500,99% ,Goregaon West,Mumbai
+Dr. Vijay D Shetty,28,Pediatricia,2600,98% ,Powai,Mumbai
+Dr. Hardik J. Shah,18,Pediatricia,500,71% ,JB Nagar,Mumbai
+Dr. Suresh Advani,50,Pediatricia,3500,97% ,Santacruz West,Mumbai
+Dr. Rahul Pagare,17,Pediatricia,200,96% ,Govandi,Mumbai
+Dr. Harshant Upadhyaya   (PhD),18,Pediatricia,3000,98% ,Ghatkopar West,Mumbai
+Dr. Laxman G. Jonwal,35,Pediatricia,800,90% ,Borivali West,Mumbai
+Dr. Abhijit V. Shetty,15,Pediatricia,300,98% ,Chembur,Mumbai
+Dr. Shrirang S Yadwadkar,12,Pediatricia,800,100% ,Mulund West,Mumbai
+Dr. Sonali Dhuri,28,Pediatricia,300,100% ,Goregaon West,Mumbai
+Dr. Prasad Chaudhari,25,Pediatricia,1200,95% ,Chembur,Mumbai
+Dr. Dhawal Haria,15,Pediatricia,500,100% ,Borivali West,Mumbai
+Dr. Shaurya Rohatgi,14,Pediatricia,1000,96% ,Andheri West,Mumbai
+Dr. Nidhi Viradiya   (Physiotherapist),7,Pediatricia,1000,100% ,Worli,Mumbai
+Dr. Suresh Sankla,40,Pediatricia,1850,100% ,Parel,Mumbai
+Dr. Purnima Parikh,36,Pediatricia,500,93% ,Vileparle West,Mumbai
+Dr. Jasmine Modi,26,Pediatricia,1500,98% ,Andheri West,Mumbai
+Dr. Sita Gururaja,27,Pediatricia,800,98% ,Powai,Mumbai
+Dr. Ravikiran M. Vernekar,22,Pediatricia,1600,96% ,Powai,Mumbai
+Dr. Divya Sinha,14,Pediatricia,500,100% ,Chembur East,Mumbai
+Dr. Minali Goyal,36,Pediatricia,1000,96% ,Worli,Mumbai
+Dr. Darshan Hiralal Vora,25,Pediatricia,500,99% ,Mulund West,Mumbai
+Mr. Chaitanya Ulhas Mantri,16,Pediatricia,1000,99% ,Goregaon East,Mumbai
+Dr. Nitin Dange,28,Pediatricia,5000,100% ,Parel,Mumbai
+Dr. Kunal Shah,20,Pediatricia,600,96% ,Dahisar,Mumbai
+Dr. Neeraj Kumar Tulara,22,Pediatricia,1600,94% ,Powai,Mumbai
+Dr. Santosh Nayak,13,Pediatricia,500,99% ,Mahim,Mumbai
+Dr. Prakash L Tejwani,19,Pediatricia,1000,97% ,Mira Road,Mumbai
+Dr. Resham Vasani Bhojani,24,Pediatricia,1700,99% ,Matunga,Mumbai
+Dr. Surinder Hansra,24,Pediatricia,1000,94% ,Kandivali East,Mumbai
+Ms. Shamim Deshmukh,19,Pediatricia,3000,97% ,Dahisar East,Mumbai
+Dr. Falguni Shah,32,Pediatricia,400,98% ,Borivali West,Mumbai
+Dr. Sheel Vora,18,Pediatricia,500,98% ,Santacruz West,Mumbai
+Dr. Raju Sahetya,44,Pediatricia,1000,95% ,Malad West,Mumbai
+Dr. Smita Pawar,12,Pediatricia,500,98% ,Malad West,Mumbai
+Ms. Kinjal M Jain,4,Pediatricia,1500,82% ,Mulund West,Mumbai
+Dr. Miten L Pandya,27,Pediatricia,500,97% ,Vidyavihar,Mumbai
+Dr. Ishan B. Thakkar,14,Pediatricia,1500,100% ,Borivali West,Mumbai
+Dr. Bhooshan Pandit,21,Pediatricia,1600,90% ,Powai,Mumbai
+Dr. Indu Khosla,35,Pediatricia,1000,99% ,Malad West,Mumbai
+Dr. Ritesh Nazareth,22,Pediatricia,1000,99% ,Kalina,Mumbai
+Dr. Sanjay S Chopra,12,Pediatricia,1100,96% ,Parel,Mumbai
+Dr. Amol Akhade,19,Pediatricia,1100,82% ,Powai,Mumbai
+Dr. Rachayta Parikh Gala,12,Pediatricia,500,100% ,Vileparle West,Mumbai
+Dr. Harish V. Dhuri,27,Pediatricia,700,84% ,Goregaon West,Mumbai
+Dr. Jayesh M Ranawat,26,Pediatricia,2500,91% ,Tardeo,Mumbai
+Ms. Renuka Gandhi,6,Pediatricia,1050,100% ,Worli,Mumbai
+Dr. Imran Shaikh,18,Pediatricia,1400,100% ,Mira Road,Mumbai
+Dr. Rahul Rane,18,Pediatricia,1200,95% ,Powai,Mumbai
+Dr. Partho Bakshi,19,Pediatricia,1000,100% ,Chembur,Mumbai
+Dr. Mehta Devangee Bakul   (Physiotherapist),16,Pediatricia,3000,100% ,Prabhadevi,Mumbai
+Dr. Sanjay Borude,39,Pediatricia,500,98% ,Chembur,Mumbai
+Dr. Rohan Patani,9,Pediatricia,2000,99% ,Borivali West,Mumbai
+Dr. Biswajeet Naidu,33,Pediatricia,1500,95% ,Chembur,Mumbai
+Dr. Niraj Mahajan,24,Pediatricia,800,96% ,Tardeo,Mumbai
+Dr. Aparna Hegde,28,Pediatricia,3000,97% ,Santacruz West,Mumbai
+Dr. Anita Gupta,28,Pediatricia,2000,98% ,Mulund West,Mumbai
+Dr. Rujuta Mehta,30,Pediatricia,1500,97% ,Santacruz West,Mumbai
+Dr. Roopa Prasad,15,Pediatricia,500,99% ,Malad West,Mumbai
+Dr. Aparna Govil Bhasker,17,Pediatricia,1500,94% ,Chembur,Mumbai
+Dr. Purushottam Vashistha,21,Pediatricia,1600,89% ,Powai,Mumbai
+Dr. Hemant Bhandari,38,Pediatricia,800,97% ,Tardeo,Mumbai
+Dr. Arjav Beswal,13,Pediatricia,500,97% ,Chembur East,Mumbai
+Dr. Kunal  Makhija,16,Pediatricia,1500,98% ,Chembur,Mumbai
+Dr. Shoaib Padaria Fakhruddin,41,Pediatricia,1500,82% ,Tardeo,Mumbai
+Dr. Ashish Joshi,14,Pediatricia,800,97% ,Tardeo,Mumbai
+Dr. Rajiv Prakash Manek,13,Pediatricia,900,100% ,Mira Road,Mumbai
+Dr. Namita M. Zaveri,32,Pediatricia,300,83% ,Chembur,Mumbai
+Dr. Ketan Parikh Pravin,38,Pediatricia,2100,100% ,Powai,Mumbai
+Dr. Amiti Shah,19,Pediatricia,1500,93% ,Gamdevi,Mumbai
+Dr. Shilpa Saple,23,Pediatricia,2000,100% ,Santacruz West,Mumbai
+Dr. Pravin Gore,23,Pediatricia,2000,95% ,Chembur,Mumbai
+Dr. Aditi Singhi,20,Pediatricia,1200,96% ,Chembur,Mumbai
+Dr. Uddhavraj Dudhedia,26,Pediatricia,1500,100% ,Santacruz West,Mumbai
+Dr. Poonam Nautiyal,21,Pediatricia,1500,99% ,Santacruz West,Mumbai
+Dr. Nitin R Kochar,28,Pediatricia,2000,96% ,Goregaon West,Mumbai
+Dr. Sanket Pisat,20,Pediatricia,800,100% ,Andheri West,Mumbai
+Dr. Nilesh  Vijay Chaudhary,14,Pediatricia,1600,98% ,Powai,Mumbai
+Dr. Suchita Pisat,16,Pediatricia,800,100% ,Andheri West,Mumbai
+Dr. Saloni Suchak,18,Pediatricia,1000,99% ,Malad West,Mumbai
+Dr. Laila Rajesh Dave,37,Pediatricia,1500,89% ,Tardeo,Mumbai
+Dr. Prashant Shetty,23,Pediatricia,200,99% ,Dahisar West,Mumbai
+Dr. Sneh Mehta,12,Pediatricia,500,100% ,Ghatkopar East,Mumbai
+Dr. Uday M Pawar,23,Pediatricia,2500,93% ,Parel,Mumbai
+Dr. Santosh Bangar,24,Pediatricia,3850,100% ,Parel,Mumbai
+Dr. Sashikant Parchure,23,Pediatricia,61,100% ,Dadar East,Mumbai
+Dr. Pradeep K Singh,32,Pediatricia,1000,85% ,Powai,Mumbai
+Dr. Rakesh Pandia,29,Pediatricia,2100,100% ,Malad West,Mumbai
+Dr. Kailash Kothari,26,Pediatricia,1000,92% ,Chembur,Mumbai
+Dr. Anju Hajari,25,Pediatricia,2000,98% ,Santacruz West,Mumbai
+Dr. Pallavi Kendrekar,14,Pediatricia,2000,98% ,Borivali West,Mumbai
+Dr. Bhavik Saglani,9,Pediatricia,800,100% ,Tardeo,Mumbai
+Dr. Dipesh Choubisa,23,Pediatricia,1500,100% ,Chembur East,Mumbai
+Dr. Lakin Vira,14,Pediatricia,1500,100% ,Tardeo,Mumbai
+Dr. Shreedhar Archik,36,Pediatricia,2350,93% ,Parel,Mumbai
+Dr. Sanket Rane,13,Pediatricia,300,99% ,Jogeshwari East,Mumbai
+Dr. Ramen Goel,37,Pediatricia,1500,96% ,Chembur,Mumbai
+Dr. Shweta Shah,12,Pediatricia,1500,100% ,Malad West,Mumbai
+Dr. Tanushri Mukherjee,17,Pediatricia,1000,91% ,Malad West,Mumbai
+Dr. Jalpa Bhuta,24,Pediatricia,2000,83% ,Parel,Mumbai
+Dr. Kaleem Khan,14,Pediatricia,1500,97% ,Santacruz West,Mumbai
+Dr. Sweta Sinha,17,Pediatricia,500,99% ,Ghatkopar East,Mumbai
+Dr. Bhupendra S Avasthi,43,Pediatricia,2000,93% ,Santacruz West,Mumbai
+Dr. Mona Gajre,27,Pediatricia,1600,100% ,Powai,Mumbai
+Dr. Nitin M Narvekar,41,Pediatricia,2000,100% ,Matunga,Mumbai
+Dr. Vishal Parmar,13,Pediatricia,900,100% ,Mira Road,Mumbai
+Dr. Suhas Vidyadhar Abhyankar,27,Pediatricia,1000,98% ,Dadar East,Mumbai
+Dr. Chandrashekhar Kulkarni,27,Pediatricia,2500,100% ,Parel,Mumbai
+Dr. Nimesh Shah,31,Pediatricia,1850,89% ,Parel,Mumbai
+Dr. Badshah Khan,21,Pediatricia,900,97% ,Mira Road,Mumbai
+Dr. Sameer Sawant,22,Pediatricia,850,98% ,Santacruz East,Mumbai
+Dr. Sandip Bipte,23,Pediatricia,2000,100% ,Chembur,Mumbai
+Dr. Ajay Bagalkot,3,Pediatricia,700,100% ,Dadar,Mumbai
+Dr. Gaurav Nitin Chaubal,19,Pediatricia,1850,100% ,Parel,Mumbai
+Dr. Rahul R. Modi,16,Pediatricia,1300,95% ,Powai,Mumbai
+Dr. Ganesh Kumar A.V,21,Pediatricia,2600,90% ,Powai,Mumbai
+Dr. Vaishali Prasad,22,Pediatricia,700,83% ,Powai,Mumbai
+Dr. Kashmira Chavan,17,Pediatricia,1600,80% ,Powai,Mumbai
+Ms. Zubaida I Shaikh,22,Pediatricia,1000,75% ,Andheri West,Mumbai
+Dr. Nipaj S. Ashar,24,Pediatricia,500,99% ,Matunga,Mumbai
+Dr. Sanyogita Y. Vichare,17,Pediatricia,600,98% ,Dadar,Mumbai
+Dr. Nalini Bhat,34,Pediatricia,1950,75% ,Powai,Mumbai
+Dr. Keyur A Sheth,21,Pediatricia,1500,88% ,Chembur,Mumbai
+Dr. Sahil Nasir Fulara,12,Pediatricia,2500,100% ,Peddar Road,Mumbai
+Dr. Vipul Mehrotra,29,Pediatricia,1200,98% ,Andheri East,Mumbai
+Dr. Verdith Hegde,17,Pediatricia,500,97% ,Bhandup,Mumbai
+Dr. Prashant Kewle,23,Pediatricia,1200,94% ,Chembur,Mumbai
+Dr. Ankit Jain,13,Pediatricia,800,100% ,Tardeo,Mumbai
+Dr. Kiran Katkar,38,Pediatricia,1200,93% ,Dadar West,Mumbai
+Dr. Nirmal Nitin Gujarathi,17,Pediatricia,1500,100% ,Santacruz West,Mumbai
+Dr. Mandar Agashe,19,Pediatricia,2000,100% ,Santacruz West,Mumbai
+Dr. Ashitesh Kumar,12,Pediatricia,500,100% ,Chembur East,Mumbai
+Dr. Swati Shah,31,Pediatricia,2200,100% ,Santacruz West,Mumbai
+Dr. Gargi Merchant,12,Pediatricia,1200,100% ,Santacruz West,Mumbai
+Dr. Meghna Dang,18,Pediatricia,500,95% ,Bandra West,Mumbai
+Dr. Chintan Doshi,12,Pediatricia,2000,89% ,Santacruz West,Mumbai
+Dr. Vanita Raut,43,Pediatricia,1300,97% ,Powai,Mumbai
+Dr. Rupal V Rana,22,Pediatricia,3600,94% ,Borivali West,Mumbai
+Dr. Neelkanth Dhamnaskar,28,Pediatricia,1850,100% ,Parel,Mumbai
+Dr. Bhavesh Acharya,34,Pediatricia,1500,98% ,Andheri East,Mumbai
+Dr. Shyam V Desai,46,Pediatricia,1200,100% ,Malad West,Mumbai
+Dr. Vishwanathan Iyer,26,Pediatricia,2000,90% ,Ghatkopar West,Mumbai
+Dr. Vibha Arora,22,Pediatricia,1000,97% ,Malad West,Mumbai
+Dr. Archana Ajit,36,Pediatricia,500,69% ,Vikhroli East,Mumbai
+Dr. Hemlata Hardasani,27,Pediatricia,1500,99% ,Andheri West,Mumbai
+Dr. Jui Mandke,21,Pediatricia,1500,100% ,Santacruz West,Mumbai
+Dr. Deepika Doshi,12,Pediatricia,800,90% ,Borivali West,Mumbai
+Dr. Utkarsh Pawar,11,Pediatricia,1500,98% ,Chembur,Mumbai
+Dr. Kavin J. Shah,14,Pediatricia,500,100% ,JB Nagar,Mumbai
+Dr. Chetan Bhambure,26,Pediatricia,1000,91% ,Mira Road,Mumbai
+Dr. Sheeba Raveendran,35,Pediatricia,400,64% ,Borivali West,Mumbai
+Dr. Ketan Parmar,35,Pediatricia,1200,95% ,Borivali East,Mumbai
+Dr. Mansi Bhatt,7,Pediatricia,600,100% ,Prabhadevi,Mumbai
+Dr. Kiran Shah,37,Pediatricia,1500,25% ,Tardeo,Mumbai
+Dr. Akash S. Bhandari,10,Pediatricia,500,100% ,Colaba,Mumbai
+Dr. Kaushik Gandhi,41,Pediatricia,800,100% ,Sion West,Mumbai
+Dr. Sujit Korday,37,Pediatricia,1500,50% ,Santacruz West,Mumbai
+Dr. Ashvith Shetty,15,Pediatricia,1500,98% ,Powai,Mumbai
+Dr. Rajesh Kamdar,40,Pediatricia,800,98% ,Andheri West,Mumbai
+Dr. Zeenat Bhalwani,22,Pediatricia,1500,99% ,Andheri West,Mumbai
+Dr. Amit Gulati,16,Pediatricia,750,99% ,Malad West,Mumbai
+Dr. Vipin L Mahurkar,26,Pediatricia,800,98% ,Borivali West,Mumbai
+Dr. Mohan Vs,43,Pediatricia,800,94% ,Andheri East,Mumbai
+Dr. Shilpa Bansal Agrawal,18,Pediatricia,1500,99% ,Andheri West,Mumbai
+Dr. Amit Chakraborty,16,Pediatricia,2000,80% ,Powai,Mumbai
+Dr. Om Parshuram Patil,13,Pediatricia,1500,100% ,Chembur,Mumbai
+Dr. Gitika Sanodia,10,Pediatricia,1200,100% ,Powai,Mumbai
+Dr. Ila Tyagi,31,Pediatricia,1200,88% ,Chembur,Mumbai
+Dr. Yusuf Kotawala,10,Pediatricia,250,96% ,Malad East,Mumbai
+Dr. Sanjeev Jain,36,Pediatricia,2100,73% ,Powai,Mumbai
+Dr. Zahra Hussain   (Physiotherapist),11,Pediatricia,500,98% ,Colaba,Mumbai
+Dr. Kavita Agarwal,41,Pediatricia,500,100% ,Kandivali East,Mumbai
+Dr. Shirish Hastak,43,Pediatricia,4100,100% ,Parel,Mumbai
+Dr. Shailesh Pandey,25,Pediatricia,1000,98% ,Andheri West,Mumbai
+Dr. Pooja Shukla,15,Pediatricia,1100,98% ,Malad West,Mumbai
+Dr. Anurag Agarwal,24,Pediatricia,700,98% ,Goregaon West,Mumbai
+Dr. Sandeep Patel,25,Pediatricia,400,97% ,Bhandup West,Mumbai
+Dr. Mihir Parekh,14,Pediatricia,300,97% ,Charni Road,Mumbai
+Dr. Rajeev Dhir,35,Pediatricia,1500,84% ,Powai,Mumbai
+Dr. Safiuddin,13,Pediatricia,1500,100% ,Tardeo,Mumbai
+Dr. Mohammed Moin Abdul Rashid Holy,14,Pediatricia,500,99% ,Nagpada,Mumbai
+Dr. Chitwan Dubey,24,Pediatricia,1300,72% ,Powai,Mumbai
+Dr. Sarang Deshpande,20,Pediatricia,900,86% ,Mira Road,Mumbai
+Dr. Jyotsna Patel,23,Pediatricia,400,100% ,Bhandup West,Mumbai
+Dr. Ajay Kakar,38,Pediatricia,700,67% ,Powai,Mumbai
+Dr. Abhijit Joshi,26,Pediatricia,1100,100% ,Powai,Mumbai
+Dr. Sulabhi Shyam,13,Pediatricia,500,100% ,Andheri West,Mumbai
+Dr. Adip K shetty,15,Pediatricia,1200,97% ,Bandra West,Mumbai
+Dr. Sachin Dalal,21,Pediatricia,2500,93% ,Bhandup West,Mumbai
+Dr. Sanjana.A,26,Pediatricia,1600,100% ,Powai,Mumbai
+Dr. Pankaj Mistry,41,Pediatricia,2000,97% ,Vileparle East,Mumbai
+Dr. Ashwin Borkar,18,Pediatricia,1000,100% ,Mira Road,Mumbai
+Dr. Sandhya Biyani,13,Pediatricia,500,99% ,Bandra West,Mumbai
+Dr. Ajay Rathod,28,Pediatricia,1500,60% ,Tardeo,Mumbai
+Dr. D B Bhosale,38,Pediatricia,1000,100% ,Chembur,Mumbai
+Dr. Khursheed Ansari,18,Pediatricia,1800,100% ,Powai,Mumbai
+Dr. Dipti Gandhi,39,Pediatricia,300,98% ,Ghatkopar East,Mumbai
+Dr. Mukul Dabholkar,43,Pediatricia,500,100% ,Bandra West,Mumbai
+Dr. Naazneen Ladak,17,Pediatricia,2000,91% ,Andheri West,Mumbai
+Dr. Bipin A Ghanghurde,15,Pediatricia,2000,100% ,Santacruz West,Mumbai
+Dr. Himanshu Mehta,40,Pediatricia,1200,92% ,Juhu,Mumbai
+Dr. Prashanth Rao,31,Pediatricia,1850,100% ,Parel,Mumbai
+Dr. Krishna Vora,29,Pediatricia,1500,91% ,Tardeo,Mumbai
+Dr. Rajesh Shah,38,Pediatricia,5000,88% ,Chembur,Mumbai
+Dr. Deepam J. Shah,13,Pediatricia,1500,96% ,Opera House,Mumbai
+Dr. Vijay Agarwal,41,Pediatricia,500,92% ,Kandivali East,Mumbai
+Dr. Saumya Shetty,12,Pediatricia,800,92% ,Chembur East,Mumbai
+Dr. Paresh C. Trivedi,28,Pediatricia,1500,96% ,Andheri West,Mumbai
+Dr. Prashant Patel,26,Pediatricia,500,99% ,Borivali West,Mumbai
+Dr. Geeta Malkan Billa,32,Pediatricia,1900,88% ,Powai,Mumbai
+Dr. Ajay Thaker,27,Pediatricia,300,99% ,Mulund West,Mumbai
+Dr. Swapnil Shah,34,Pediatricia,500,98% ,Powai,Mumbai
+Ms. Saachi Arora,3,Pediatricia,2000,100% ,Khar West,Mumbai
+Dr. Swapnil Mehta,17,Pediatricia,1600,78% ,Powai,Mumbai
+Dr. Veena G. Shinde,34,Pediatricia,1000,93% ,Malad West,Mumbai
+Dr. Sunita Mohan,14,Pediatricia,1000,100% ,Chembur,Mumbai
+Dr. Vimal J.Pahuja,18,Pediatricia,1600,93% ,Powai,Mumbai
+Dr. Mandar S Patwardhan,32,Pediatricia,1000,100% ,Dadar West,Mumbai
+Dr. Uday B Shetty,38,Pediatricia,500,98% ,Dadar West,Mumbai
+Dr. Shrikant Bhoyar,38,Pediatricia,1000,95% ,Borivali West,Mumbai
+Dr. Ashank Bansal,15,Pediatricia,1500,100% ,Chembur,Mumbai
+Dr. Pooja Sharma Dimri,23,Pediatricia,1000,100% ,Malad West,Mumbai
+Dr. Ritu Sharma,13,Pediatricia,300,100% ,Borivali East,Mumbai
+Dr. Tarun Jain,10,Pediatricia,2000,100% ,Tardeo,Mumbai
+Dr. Ashish Chaurasia,13,Pediatricia,1200,100% ,Ghatkopar West,Mumbai
+Dr. Aniket Mule,8,Pediatricia,900,89% ,Mira Road,Mumbai
+Dr. Aditi Mehta   (Physiotherapist),15,Pediatricia,500,99% ,Ghatkopar East,Mumbai
+Dr. Mangala Patil,36,Pediatricia,900,70% ,Mira Road,Mumbai
+Dr. Jyoti Narla,23,Pediatricia,500,96% ,Powai,Mumbai
+Dr. Bhavna Dedhia,25,Pediatricia,300,98% ,Ghatkopar East,Mumbai
+Dr. Shankar Chawla,40,Pediatricia,2500,99% ,Chembur,Mumbai
+Dr. Karanjit Singh Chaudhary,19,Pediatricia,500,100% ,Tilak Nagar,Mumbai
+Dr. Karanjit Singh Chaudhary,19,Pediatricia,500,100% ,Tilak Nagar,Mumbai
+Dr. Irfan Khan,20,Pediatricia,2600,100% ,Powai,Mumbai
+Dr. Sanjeev Ahuja,27,Pediatricia,1100,86% ,Powai,Mumbai
+Dr. Ajay Bajaj,30,Pediatricia,500,96% ,Juhu,Mumbai
+Dr. Jayna Shah,34,Pediatricia,500,100% ,Powai,Mumbai
+Dr. Jayesh G. Mehta,33,Pediatricia,300,98% ,Mulund West,Mumbai
+Dr. Anagha Chhatrapati,16,Pediatricia,1600,100% ,Parel,Mumbai
+Dr. Ritu Mehta,7,Pediatricia,250,100% ,Borivali West,Mumbai
+Dr. Suchitra Pandit,40,Pediatricia,2000,94% ,Santacruz West,Mumbai
+Dr. Haresh  Timbadia,42,Pediatricia,1200,95% ,Borivali West,Mumbai
+Dr. Ravindra Hodarkar,46,Pediatricia,1200,43% ,Chembur,Mumbai
+Dr. Pavitra Shanbhag Bhat,21,Pediatricia,1100,100% ,Powai,Mumbai
+Dr. Ajay Doiphode,26,Pediatricia,1000,98% ,Andheri West,Mumbai
+Dr. Vrunda  Karanjgaokar,30,Pediatricia,1200,100% ,Chembur,Mumbai
+Dr. Suhas Lele,42,Pediatricia,1000,98% ,Prabhadevi,Mumbai
+Dr. Udani Amish,20,Pediatricia,1250,92% ,Malad West,Mumbai
+Dr. Rushikesh Patil,19,Pediatricia,2600,99% ,Powai,Mumbai
+Dr. Vibha Murarka,20,Pediatricia,1700,100% ,Girgaon,Mumbai
+Dr. Shruti Avinash Bajaj,15,Pediatricia,2500,99% ,Malad West,Mumbai
+Dr. Mukund Andakar,32,Pediatricia,1500,40% ,Tardeo,Mumbai
+Dr. Susheel Deshmukh,19,Pediatricia,500,97% ,Goregaon East,Mumbai
+Dr. Pavan Pai,16,Pediatricia,1000,100% ,Mira Road,Mumbai
+Dr. Amruta Bhalchandra Wadekar,29,Pediatricia,500,100% ,Dahisar East,Mumbai
+Dr. Simi Saksena,34,Pediatricia,1500,99% ,Andheri West,Mumbai
+Dr. Jayanti Kamat,31,Pediatricia,1000,89% ,Jogeshwari East,Mumbai
+Dr. Anup Taksande,20,Pediatricia,750,100% ,Mira Road,Mumbai
+Dr. Reshma Palep,18,Pediatricia,1500,100% ,Tardeo,Mumbai
+Dr. Sonali Pandit,26,Pediatricia,800,98% ,Chembur,Mumbai
+Dr. Zeel N. Mody,13,Pediatricia,300,100% ,Ghatkopar West,Mumbai
+Dr. Chetana Bindrani,12,Pediatricia,1000,100% ,Santacruz West,Mumbai
+Dr. Sujit Shanshanwal,14,Pediatricia,1500,99% ,Santacruz West,Mumbai
+Dr. Siddhi Saijan,13,Pediatricia,200,99% ,Borivali West,Mumbai
+Dr. Sumit Agrawal,22,Pediatricia,1500,98% ,Andheri West,Mumbai
+Dr. Urvi Shah,23,Pediatricia,300,98% ,Mulund West,Mumbai
+Dr. Jigna Sanghavi,14,Pediatricia,200,99% ,Mira Road,Mumbai
+Dr. Ajaykumar R. Gajengi,19,Pediatricia,1000,93% ,Borivali West,Mumbai
+Dr. Aditi Gaur,12,Pediatricia,300,100% ,Mulund West,Mumbai
+Dr. Shobha Sharma,44,Pediatricia,1500,50% ,Santacruz West,Mumbai
+Dr. Chandranath Tiwari,21,Pediatricia,800,100% ,Tardeo,Mumbai
+Dr. Kruti Harsh Mehta   (Physiotherapist),14,Pediatricia,500,100% ,Vikhroli,Mumbai
+Dr. Rajiv Rajan,24,Pediatricia,300,100% ,Chembur East,Mumbai
+Dr. Rajendra Shah,45,Pediatricia,200,96% ,Powai,Mumbai
+Dr. Rajul S. Parikh,29,Pediatricia,950,98% ,Andheri West,Mumbai
+Dr. Jay N. Harde,31,Pediatricia,250,96% ,Borivali,Mumbai
+Dr. Kaustubh Ravindra Durve,23,Pediatricia,1500,86% ,Chembur,Mumbai
+Dr. Pankaj Ashok Agarwal,26,Pediatricia,2350,79% ,Parel,Mumbai
+Dr. Adhye,40,Pediatricia,1700,98% ,Chembur,Mumbai
+Dr. Mili S. Joshi,26,Pediatricia,1000,97% ,Santacruz East,Mumbai
+Dr. Indumathi Kuberan,30,Pediatricia,1200,100% ,Borivali East,Mumbai
+Dr. Anand Narla,24,Pediatricia,500,95% ,Powai,Mumbai
+Dr. Shraddha Khot   (Physiotherapist),16,Pediatricia,500,100% ,Borivali West,Mumbai
+Dr. Prashant M Mullerpatan,26,Pediatricia,2000,99% ,Chembur,Mumbai
+Dr. Burzin Khan,36,Pediatricia,1000,100% ,Fort,Mumbai
+Dr. Urmil Arora,58,Pediatricia,300,85% ,Khar West,Mumbai
+Dr. Nitin A Jain,17,Pediatricia,1000,50% ,Powai,Mumbai
+Dr. Ajanta Narvekar,41,Pediatricia,2000,95% ,Matunga,Mumbai
+Dr. Jolly Shah Kapadia,24,Pediatricia,1000,99% ,Mulund West,Mumbai
+Dr. Nitesh Motwani,15,Pediatricia,400,97% ,Andheri West,Mumbai
+Dr. Anita Soni,32,Pediatricia,1300,73% ,Powai,Mumbai
+Dr. Jinendra K Jain,21,Pediatricia,900,78% ,Mira Road,Mumbai
+Dr. Piyush Sureshkumar Shah,18,Pediatricia,1000,98% ,Malad West,Mumbai
+Dr. Shilpa Mittal,25,Pediatricia,500,98% ,Kandivali East,Mumbai
+Dr. Girish Bhalerao,16,Pediatricia,900,100% ,Mira Road,Mumbai
+Dr. Pallavi Bipte,13,Pediatricia,1200,100% ,Chembur,Mumbai
+Dr. Erbaz Riyazahmed Momin,24,Pediatricia,1500,100% ,Chembur,Mumbai
+Dr. Bharat V Shah,43,Pediatricia,2850,88% ,Parel,Mumbai
+Dr. Vaishali Kanthi,25,Pediatricia,800,88% ,Bhandup West,Mumbai
+Dr. Jagat Shah,21,Pediatricia,800,95% ,Borivali West,Mumbai
+Dr. Chitrang Thaker,23,Pediatricia,500,97% ,Goregaon East,Mumbai
+Dr. Bakar Ali Kadiwala,20,Pediatricia,1500,100% ,Tardeo,Mumbai
+Dr. Anju Bijoy Methil,29,Pediatricia,1200,96% ,Andheri West,Mumbai
+Dr. Sahil Chheda,13,Pediatricia,200,100% ,Tardeo,Mumbai
+Dr. Rasna Kapoor,24,Pediatricia,500,100% ,Bandra West,Mumbai
+Dr. Suresh Isawe,42,Pediatricia,1000,95% ,Malad West,Mumbai
+Dr. Priyal Virani,16,Pediatricia,400,93% ,Mulund West,Mumbai
+Dr. Praful Barvalia,42,Pediatricia,2500,100% ,Ghatkopar East,Mumbai
+Dr. Amrish Vaidya,36,Pediatricia,2000,100% ,Santacruz West,Mumbai
+Dr. Rajiv Anand,47,Pediatricia,2000,94% ,Andheri West,Mumbai
+Dr. Irfan Kachwala,18,Pediatricia,500,100% ,Khar West,Mumbai
+Dr. Samir Rajadhyaksha,30,Pediatricia,2100,100% ,Parel,Mumbai
+Dr. Saba Rasool,23,Pediatricia,1000,100% ,Andheri West,Mumbai
+Dr. Natasha Laxmilal Vageriya,17,Pediatricia,1300,100% ,Powai,Mumbai
+Dr. Shulmit Vaidya,22,Pediatricia,800,94% ,Tardeo,Mumbai
+Dr. Sonia Tekchandani,37,Pediatricia,2000,95% ,Andheri West,Mumbai
+Dr. Seema Behl,32,Pediatricia,800,99% ,Andheri East,Mumbai
+Dr. Mukesh Shah,40,Pediatricia,700,91% ,Andheri West,Mumbai
+Dr. Prabha Acharya,35,Pediatricia,1500,98% ,Andheri East,Mumbai
+Dr. Ashwini Bhalerao,30,Pediatricia,1000,97% ,Andheri West,Mumbai
+Dr. Kirti Bhushan,15,Pediatricia,3000,98% ,Santacruz West,Mumbai
+Dr. Sharada P Gowda,14,Pediatricia,500,96% ,Goregaon East,Mumbai
+Dr. Arpit Doshi,15,Pediatricia,600,96% ,Ghatkopar East,Mumbai
+Dr. Mohak Ruparel,14,Pediatricia,500,99% ,Colaba,Mumbai
+Dr. Meghana D Sarvaiya,21,Pediatricia,1000,97% ,Malad West,Mumbai
+Dr. Shounak Parekh,28,Pediatricia,1500,97% ,Bandra West,Mumbai
+Dr. Janaki Kodkani,27,Pediatricia,1000,93% ,Bandra West,Mumbai
+Dr. Aashiq Shaikh,14,Pediatricia,400,100% ,Bhandup West,Mumbai
+Dr. Ashutosh Baghel,18,Pediatricia,1000,100% ,Mira Road,Mumbai
+Dr. Pradeep Prabhakar Rao,33,Pediatricia,1850,56% ,Parel,Mumbai
+Dr. Sanket Sheth,16,Pediatricia,500,99% ,Ghatkopar East,Mumbai
+Dr. Girish Shetake,17,Pediatricia,400,97% ,Sakinaka,Mumbai
+Dr. Sejal Saheta,19,Pediatricia,1000,95% ,Powai,Mumbai
+Dr. Shweta Vyas,8,Pediatricia,250,97% ,Kandivali West,Mumbai
+Dr. Gauri Kadam,19,Pediatricia,600,100% ,Andheri West,Mumbai
+Dr. Sagar Mundada,12,Pediatricia,2000,97% ,Powai,Mumbai
+Dr. Sagar Mundada,12,Pediatricia,2000,97% ,Powai,Mumbai
+Dr. Minita Mehta Solanki   (Physiotherapist),12,Pediatricia,500,97% ,Andheri West,Mumbai
+Dr. Rachana Rai   (Physiotherapist),21,Pediatricia,800,98% ,Jogeshwari East,Mumbai
+Dr. Devesh Dholakia,32,Pediatricia,1750,100% ,Parel,Mumbai
+Ms. Geeta Shenoy,33,Pediatricia,2500,98% ,Chembur East,Mumbai
+Dr. Abhijit Pawar,21,Pediatricia,200,100% ,Powai,Mumbai
+Dr. Bindu Sthalekar,35,Pediatricia,3000,96% ,Khar West,Mumbai
+Dr. Vivian Varghese,12,Pediatricia,300,100% ,Borivali West,Mumbai
+Dr. Prakash Trivedi,44,Pediatricia,3000,98% ,Ghatkopar East,Mumbai
+Dr. Naman Hiralal Vora,22,Pediatricia,500,99% ,Mulund West,Mumbai
+Dr. Vividha Singhania,14,Pediatricia,500,100% ,Mahim,Mumbai
+Dr. Prakash Chandra Shetty,29,Pediatricia,1700,79% ,Powai,Mumbai
+Dr. Manoj S Thamke,21,Pediatricia,700,100% ,Mulund East,Mumbai
+Dr. Monika Agrawal,18,Pediatricia,1000,97% ,Andheri East,Mumbai
+Dr. Yash Devckar,11,Pediatricia,700,99% ,Chembur East,Mumbai
+Dr. Prakash Kumar Jha,25,Pediatricia,450,92% ,Mira Road,Mumbai
+Dr. Yogiraj Bhattrai   (Physiotherapist),2,Pediatricia,500,99% ,Andheri,Mumbai
+Dr. Pooja Ghodke,13,Pediatricia,600,98% ,Andheri West,Mumbai
+Dr. Manjul Jain,27,Pediatricia,750,33% ,Andheri West,Mumbai
+Dr. Abhijit Kale,21,Pediatricia,1000,33% ,Tardeo,Mumbai
+Dr. Prajyot Jagtap,16,Pediatricia,1500,96% ,Chembur,Mumbai
+Dr. Nisha Jain,13,Pediatricia,500,95% ,Mazgaon,Mumbai
+Dr. Dhrupti B Dedhia,25,Pediatricia,2200,100% ,Santacruz West,Mumbai
+Dr. Mohan Krishna Raut,38,Pediatricia,3000,98% ,Santacruz,Mumbai
+Dr. Sonia Anare,14,Pediatricia,500,100% ,Parel,Mumbai
+Dr. Bandish Parekh,15,Pediatricia,500,99% ,Matunga,Mumbai
+Dr. Avani Khadepau   (Physiotherapist),21,Pediatricia,500,100% ,Kandivali West,Mumbai
+Dr. Suresh Jain,31,Pediatricia,1850,95% ,Parel,Mumbai
+Dr. Sanjay Bakhshi   (Physiotherapist),26,Pediatricia,1500,97% ,Andheri West,Mumbai
+Dr. Viraj Kakade,16,Pediatricia,500,100% ,Juhu,Mumbai
+Dr. Quazi Wasim Bari,18,Pediatricia,500,97% ,Andheri East,Mumbai
+Dr. Namita Pandey,15,Pediatricia,2000,98% ,Powai,Mumbai
+Dr. Tanuja Deshpande,15,Pediatricia,700,100% ,Mahim,Mumbai
+Dr. Prachi Saraogi,15,Pediatricia,900,99% ,Malad East,Mumbai
+Dr. Swapnil Sharma,15,Pediatricia,1600,100% ,Powai,Mumbai
+Dr. Sanket Gite   (Physiotherapist),14,Pediatricia,500,100% ,Mulund West,Mumbai
+Dr. Pankti Shah,11,Pediatricia,300,99% ,Kandivali West,Mumbai
+Dr. Nandita P Palshetkar,38,Pediatricia,1000,85% ,Bandra West,Mumbai
+Dr. Ganesh Avhad,15,Pediatricia,800,98% ,Ghatkopar West,Mumbai
+Dr. Neeraj R Bijlani,22,Pediatricia,1500,96% ,Chembur,Mumbai
+Dr. Vrushni Bhuta,14,Pediatricia,1600,100% ,Powai,Mumbai
+Dr. Rajesh Shinde,28,Pediatricia,800,96% ,Borivali West,Mumbai
+Dr. Gaurav Beswal,17,Pediatricia,3000,100% ,Opera House,Mumbai
+Dr. Indu Bubna,21,Pediatricia,1500,97% ,Malad West,Mumbai
+Dr. Deval Naik,19,Pediatricia,500,99% ,Goregaon West,Mumbai
+Dr. Tarun Motwani,31,Pediatricia,1000,98% ,Andheri West,Mumbai
+Dr. Nita A Shah,38,Pediatricia,1200,89% ,Chembur East,Mumbai
+Dr. Vivek S,12,Pediatricia,300,100% ,Mira Road,Mumbai
+Dr. Mohit Bodhwani,13,Pediatricia,500,96% ,Khar West,Mumbai
+Dr. Sakarwala Mustafa,28,Pediatricia,1000,99% ,Mazgaon,Mumbai
+Dr. Sonali Luthra Gandhi,12,Pediatricia,300,100% ,Ghatkopar East,Mumbai
+Dr. Maxim Dmello,36,Pediatricia,850,97% ,Borivali West,Mumbai
+Dr. Aniket Gandhi,15,Pediatricia,400,94% ,Ghatkopar East,Mumbai
+Dr. Vibhor Borkar,17,Pediatricia,800,100% ,Tardeo,Mumbai
+Dr. Sunita Naik,26,Pediatricia,500,94% ,Powai,Mumbai
+Dr. Jignesh Kothari,20,Pediatricia,1000,97% ,Santacruz West,Mumbai
+Dr. Shubhada Kulkarni,44,Pediatricia,1000,89% ,Andheri West,Mumbai
+Dr. Meghraj Ingle,21,Pediatricia,2350,100% ,Parel,Mumbai
+Dr. Rajesh Rajan,20,Pediatricia,300,99% ,Chembur East,Mumbai
+Dr. Meghraj Ingle,21,Pediatricia,2350,100% ,Parel,Mumbai
+Dr. Sushma Chavan,15,Pediatricia,500,98% ,Bhandup West,Mumbai
+Dr. Ashlesha Sankhe,27,Pediatricia,1500,98% ,Andheri West,Mumbai
+Dr. Nikita Motwani,11,Pediatricia,400,100% ,Andheri West,Mumbai
+Dr. Prakash S. Jain,23,Pediatricia,600,99% ,Cumballa Hill,Mumbai
+Dr. Tushar Rane,16,Pediatricia,1200,80% ,Chembur,Mumbai
+Dr. Meena P. Mistry,35,Pediatricia,500,97% ,Vileparle East,Mumbai
+Dr. Chinmaya Sahu,20,Pediatricia,1000,99% ,Malad West,Mumbai
+Dr. Anviti Puranik,13,Pediatricia,500,99% ,Goregaon East,Mumbai
+Ms. Geetanjali,19,Pediatricia,1500,99% ,Bandra West,Mumbai
+Dr. Zeeshan Ladhani,11,Pediatricia,500,100% ,Colaba,Mumbai
+Dr. Bhavesh D. Rusawat,13,Pediatricia,500,96% ,Borivali West,Mumbai
+Dr. Pratik Thacker,13,Pediatricia,1000,94% ,Borivali West,Mumbai
+Dr. Tuhina Mehta,12,Pediatricia,500,100% ,Ghatkopar East,Mumbai
+Dr. Vinaykumar Thati,22,Pediatricia,800,95% ,Tardeo,Mumbai
+Dr. Rohan Virani,17,Pediatricia,500,99% ,Mulund West,Mumbai
+Dr. Vidhan C Doshi,13,Pediatricia,800,99% ,Andheri East,Mumbai
+Dr. Khushboo Sehgal Chablani,16,Pediatricia,1000,97% ,Bandra West,Mumbai
+Dr. Miral Patel,15,Pediatricia,800,100% ,Kandivali West,Mumbai
+Dr. Nilofer M Currawalla,15,Pediatricia,500,100% ,Colaba,Mumbai
+Dr. Navaaz Azil Tantra,29,Pediatricia,1000,97% ,Malad West,Mumbai
+Dr. Deepti Nanwani Patel,14,Pediatricia,500,98% ,Kandivali East,Mumbai
+Dr. Vandita Agrawal,12,Pediatricia,500,99% ,Goregaon East,Mumbai
+Dr. Shradha Goel,21,Pediatricia,1000,94% ,Andheri West,Mumbai
+Dr. Ambardekar Shekhar Shriram,45,Pediatricia,3030,83% ,Bandra East,Mumbai
+Dr. Rakhee Sahu,25,Pediatricia,1300,99% ,Powai,Mumbai
+Dr. Varsha Daryanani,22,Pediatricia,2000,99% ,Nariman Point,Mumbai
+Dr. Pradeep Shenoy,23,Pediatricia,1500,100% ,Santacruz West,Mumbai
+Dr. Shruti Parikh,15,Pediatricia,1100,100% ,Malad West,Mumbai
+Dr. Jigar Gala,18,Pediatricia,1000,96% ,Andheri West,Mumbai
+Dr. Nishit Shah,32,Pediatricia,3000,94% ,Kemps Corner,Mumbai
+Dr. Priyanka M Tater,13,Pediatricia,1500,100% ,Ghatkopar West,Mumbai
+Dr. Poorvi Chothani Kachwala,15,Pediatricia,500,96% ,Andheri West,Mumbai
+Dr. Kinjal Rambhia Gulati,12,Pediatricia,750,100% ,Malad West,Mumbai
+Dr. Sharatkumar B Shetty,35,Pediatricia,700,100% ,Powai,Mumbai
+Dr. Dharit Gandhi,12,Pediatricia,300,95% ,Ghatkopar East,Mumbai
+Dr. Fahad Naaz,14,Pediatricia,500,98% ,Jacob Circle,Mumbai
+Dr. Salem Tariq,14,Pediatricia,500,99% ,Andheri West,Mumbai
+Dr. Aditi Chandrashekhar Acharya,16,Pediatricia,1300,94% ,Kurla East,Mumbai
+Dr. Shreedevi Tanksale,15,Pediatricia,1000,100% ,Vileparle East,Mumbai
+Dr. Mugdha Raut,34,Pediatricia,3000,99% ,Santacruz,Mumbai
+Dr. Rajanshu Tiwari,13,Pediatricia,800,93% ,Chembur,Mumbai
+Dr. Kunal Chavan,14,Pediatricia,500,98% ,Bhandup West,Mumbai
+Dr. Meeta Malik,16,Pediatricia,800,99% ,Bandra West,Mumbai
+Dr. Ishwar Gilada,43,Pediatricia,3000,94% ,Lamington Road,Mumbai
+Dr. Sanghvi,44,Pediatricia,1000,93% ,Vileparle West,Mumbai
+Dr. Manisha Mehboobani,27,Pediatricia,450,80% ,Khar West,Mumbai
+Dr. Sanghvi,44,Pediatricia,1000,93% ,Vileparle West,Mumbai
+Dr. Atul Narayankar,12,Pediatricia,1000,100% ,Mira Road,Mumbai
+Dr. Menaz Thakkar,14,Pediatricia,700,98% ,Chembur,Mumbai
+Dr. Sanket Shah,12,Pediatricia,1850,100% ,Parel,Mumbai
+Dr. Manjusha Agrawal,29,Pediatricia,2000,100% ,Parel,Mumbai
+Dr. Shubhangi Mahajan,13,Pediatricia,1000,99% ,Parel,Mumbai
+Dr. Nikhil Nasta,22,Pediatricia,1500,99% ,Dadar East,Mumbai
+Dr. Nagraj S. Shetty,21,Pediatricia,1500,96% ,Andheri East,Mumbai
+Dr. Sachin Singh,12,Pediatricia,300,97% ,Kandivali West,Mumbai
+Dr. Shailendra Patil,16,Pediatricia,1200,98% ,Mulund West,Mumbai
+Dr. Darpan Kaur,18,Pediatricia,1500,97% ,Sion East,Mumbai
+Dr. Jitesh Desai,32,Pediatricia,1000,75% ,Ghatkopar West,Mumbai
+Dr. Ashish Agrawal,20,Pediatricia,1500,98% ,Mulund West,Mumbai
+Dr. Nikunj Mody,16,Pediatricia,1000,100% ,Ghatkopar West,Mumbai
+Dr. Satyen Mehta,23,Pediatricia,2000,97% ,Chembur,Mumbai
+Dr. Zahir Abbas Merchant,14,Pediatricia,1500,100% ,Ghatkopar West,Mumbai
+Dr. Sneha Hukmani Sheth,15,Pediatricia,500,100% ,Ghatkopar East,Mumbai
+Dr. Akash A Saraogi,13,Pediatricia,1100,100% ,Malad East,Mumbai
+Dr. Saloni Shah,14,Pediatricia,1000,97% ,Chembur,Mumbai
+Dr. Abhinandan Sadalge,25,Pediatricia,2000,100% ,Santacruz West,Mumbai
+Dr. Sambit Patnaik,19,Pediatricia,2000,97% ,Chembur,Mumbai
+Dr. Sangeeta Raodeo,17,Pediatricia,800,100% ,Bhandup West,Mumbai
+Dr. Vinit Mahendra Shah,18,Pediatricia,600,98% ,Mulund West,Mumbai
+Dr. Amyn Rajani,23,Pediatricia,3000,99% ,Bandra West,Mumbai
+Dr. Hetal Kothari,26,Pediatricia,500,100% ,Santacruz West,Mumbai
+Dr. Anil Yadav,18,Pediatricia,800,100% ,Kandivali East,Mumbai
+Dr. Priyal Gala,14,Pediatricia,1200,97% ,Matunga,Mumbai
+Dr. Lenny Da Costa,28,Pediatricia,2000,84% ,Worli,Mumbai
+Dr. Urvi Ashar,10,Pediatricia,700,99% ,Chembur,Mumbai
+Dr. Pooja Shetty,9,Pediatricia,500,100% ,Charni Road,Mumbai
+Dr. Tejal Poddar,12,Pediatricia,1000,98% ,Opera House,Mumbai
+Dr. Namrata Jadwani,9,Pediatricia,1000,99% ,Bandra West,Mumbai
+Dr. Ankit Gupta,15,Pediatricia,1000,86% ,Mira Road,Mumbai
+Dr. Prabodh Garg,8,Pediatricia,1000,100% ,Malad West,Mumbai
+Dr. Sneha Kothari,19,Pediatricia,1850,100% ,Parel,Mumbai
+Dr. Priyanka S Jain,12,Pediatricia,1100,98% ,Sion,Mumbai
+Dr. Sangita Chadha   (Physiotherapist),41,Pediatricia,1000,97% ,Lokhandwala,Mumbai
+Dr. Shruthi,6,Pediatricia,500,100% ,Andheri East,Mumbai
+Dr. Nysha Garg,15,Pediatricia,500,99% ,Goregaon East,Mumbai
+Dr. Nupur Jhunjhunwala,19,Pediatricia,1000,98% ,Kemps Corner,Mumbai
+Dr. Nandkishor S. Kabra,25,Pediatricia,1500,100% ,Santacruz West,Mumbai
+Dr. Punit Bhojani,20,Pediatricia,1200,99% ,Matunga,Mumbai
+Dr. Vishal Diddi,17,Pediatricia,1500,100% ,Andheri West,Mumbai
+Dr. Pooja Desai,16,Pediatricia,800,97% ,Oshiwara,Mumbai
+Dr. Aditya J Nanavati,10,Pediatricia,1850,100% ,Parel,Mumbai
+Dr. Aslam Inamdar,21,Pediatricia,1000,94% ,Umerkhadi,Mumbai
+Dr. Shruti Shanbhag,13,Pediatricia,700,100% ,Mahim,Mumbai
+Dr. Aditi Varma Arora,15,Pediatricia,1000,100% ,Colaba,Mumbai
+Dr. Sanyukta Rege,17,Pediatricia,500,98% ,Juhu,Mumbai
+Dr. Shalini Suralkar,17,Pediatricia,1600,88% ,Powai,Mumbai
+Dr. Rajesh D Rambhia,32,Pediatricia,600,98% ,Mulund West,Mumbai
+Dr. Tanushree Naik Parekh,13,Pediatricia,300,97% ,Charni Road,Mumbai
+Dr. Hetal Pabaria,20,Pediatricia,450,100% ,Mulund West,Mumbai
+Dr. Priyadarshani Jain,18,Pediatricia,3000,99% ,Andheri East,Mumbai
+Dr. Shraddha Khedkar Nate,19,Pediatricia,300,97% ,Bhandup West,Mumbai
+Dr. Husain Harianawala,14,Pediatricia,1000,94% ,Lokhandwala,Mumbai
+Dr. Nitin Aherrao,16,Pediatricia,2000,95% ,Andheri West,Mumbai
+Dr. Hitesh Kubadia,21,Pediatricia,2000,97% ,Dadar East,Mumbai
+Dr. Amruta Wakde Desai,13,Pediatricia,200,100% ,Dadar West,Mumbai
+Dr. Sangeeta Chokhani,33,Pediatricia,600,98% ,Andheri West,Mumbai
+Dr. Zinal,25,Pediatricia,2000,98% ,Andheri West,Mumbai
+Dr. Nikhil N Nale   (Physiotherapist),8,Pediatricia,700,100% ,Powai,Mumbai
+Dr. Kunjal Bathija,31,Pediatricia,800,77% ,Colaba,Mumbai
+Ms. Sudha Ojha,28,Pediatricia,5000,100% ,Goregaon East,Mumbai
+Dr. Namrita Sheregar,17,Pediatricia,1000,98% ,Andheri West,Mumbai
+Dr. Ashish Doshi,24,Pediatricia,1200,100% ,Santacruz West,Mumbai
+Dr. Simi Kawar,30,Pediatricia,1600,100% ,Malad West,Mumbai
+Dr. Lajja Shah   (Physiotherapist),15,Pediatricia,1000,96% ,Ghatkopar East,Mumbai
+Dr. Parul Tank,27,Pediatricia,3030,96% ,Bandra East,Mumbai
+Dr. Mithali Jage,9,Pediatricia,1000,98% ,Sion,Mumbai
+Dr. Swetha Lalgudi,6,Pediatricia,1000,98% ,Ghatkopar West,Mumbai
+Dr. Akanksha Saberwal,15,Pediatricia,1500,86% ,Andheri West,Mumbai
+Dr. Dube Sunilkumar Rameshchandra,31,Pediatricia,1200,91% ,Chembur East,Mumbai
+Dr. Gouri Gore,18,Pediatricia,1200,100% ,Chembur East,Mumbai
+Dr. Jayna Gandhi,14,Pediatricia,500,99% ,Goregaon East,Mumbai
+Dr. Shubhashree Patil,18,Pediatricia,1300,100% ,Andheri East,Mumbai
+Dr. Yogesh Kalyanpad,13,Pediatricia,1500,97% ,Santacruz West,Mumbai
+Dr. Rushabh Shah,17,Pediatricia,1000,96% ,Girgaon,Mumbai
+Dr. Neha Dholakia,26,Pediatricia,1000,100% ,Nana Chowk,Mumbai
+Dr. D.G. Saple,49,Pediatricia,2500,89% ,Dadar,Mumbai
+Dr. Ishwari Bhirud,33,Pediatricia,500,96% ,Andheri East,Mumbai
+Dr. Parzan Mistry,9,Pediatricia,1000,98% ,Nana Chowk,Mumbai
+Dr. Mitul Bhatt,12,Pediatricia,1500,97% ,Grant Road,Mumbai
+Dr. Stimita Kamdar,39,Pediatricia,500,98% ,Andheri West,Mumbai
+Dr. Amit Chablani,15,Pediatricia,1000,99% ,Bandra West,Mumbai
+Dr. Kanupriya Halan,13,Pediatricia,1000,97% ,Andheri West,Mumbai
+Dr. Shilpa Nayak,20,Pediatricia,1500,97% ,Andheri West,Mumbai
+Dr. Siddhi Chavan,14,Pediatricia,1500,97% ,Bandra West,Mumbai
+Dr. Ankur Phatarpekar,19,Pediatricia,2000,100% ,Prabhadevi,Mumbai
+Dr. Isha Angne,14,Pediatricia,500,100% ,Malad West,Mumbai
+Dr. Swarup Pal,17,Pediatricia,1900,94% ,Powai,Mumbai
+Dr. Darshan Shah,13,Pediatricia,1500,100% ,Santacruz East,Mumbai
+Dr. Ashini Maniar,16,Pediatricia,1500,95% ,Bandra West,Mumbai
+Mr. Vilas Jambhulkar,17,Pediatricia,1000,100% ,Andheri West,Mumbai
+Dr. Kaiwan K. Shroff,13,Pediatricia,2000,100% ,Bandra West,Mumbai
+Dr. Monish Mehta   (Physiotherapist),9,Pediatricia,1200,100% ,Khar West,Mumbai
+Dr. Bijal Pradip,27,Pediatricia,1300,75% ,Powai,Mumbai
+Dr. Vivek P Soni,38,Pediatricia,700,20% ,Powai,Mumbai
+Ms. Komal L Renuke,15,Pediatricia,850,43% ,Powai,Mumbai
+Dr. Aakanksha Gupta,4,Pediatricia,1000,100% ,Dadar West,Mumbai
+Dr. Varun Shanbhag   (Physiotherapist),12,Pediatricia,700,99% ,Andheri West,Mumbai
+Dr. Shilpa Shah Gohil,20,Pediatricia,800,97% ,Wadala,Mumbai
+Dr. Bhuwania Puneet Sanjay Kumar,9,Pediatricia,1000,99% ,Mira Road,Mumbai
+Dr. Mahesh .M. Lalwani,44,Pediatricia,1000,99% ,Malabar Hill,Mumbai
+Dr. Anubha Jain,9,Pediatricia,1000,99% ,Fort,Mumbai
+Dr. Vinay Kumar Dhir,40,Pediatricia,2000,75% ,Mahim,Mumbai
+Dr. Vindhya Raparla,9,Pediatricia,1250,100% ,Juhu,Mumbai
+Dr. Jitendra Jagtap,14,Pediatricia,1850,100% ,Parel,Mumbai
+Dr. Shoibalini Karmokar,3,Pediatricia,900,96% ,Santacruz West,Mumbai
+Dr. Sonali Rao Bhagwat,28,Pediatricia,1850,84% ,Parel,Mumbai
+Dr. Ajay Randive,28,Pediatricia,1000,100% ,Santacruz East,Mumbai
+Dr. Chetankumar D Jain,13,Pediatricia,1000,70% ,Ghatkopar West,Mumbai
+Dr. Sheetal Radia,17,Pediatricia,1000,100% ,Mira Road,Mumbai
+Dr. Hetal Parekh,26,Pediatricia,1600,96% ,Powai,Mumbai
+Dr. Akshay Jain,9,Pediatricia,500,98% ,Lower Parel,Mumbai
+Dr. Ameet Dhurandhar,24,Pediatricia,2500,100% ,Santacruz West,Mumbai
+Dr. Sana Bhamla,15,Pediatricia,1500,95% ,Mumbai Central,Mumbai
+Dr. Niketa Sonavane,18,Pediatricia,3000,93% ,Andheri West,Mumbai
+Dr. Rajiv Karnik,31,Pediatricia,4000,100% ,Bandra East,Mumbai
+Dr. Pallavi Singh   (Physiotherapist),18,Pediatricia,2000,98% ,Vileparle East,Mumbai
+Dr. Nimitt,12,Pediatricia,600,84% ,Mulund West,Mumbai
+Dr. Sachin Ashokrao Giri,13,Pediatricia,1600,100% ,Powai,Mumbai
+Dr. Prerna Panthri,11,Pediatricia,350,92% ,Andheri West,Mumbai
+Dr. Larita Pais   (Physiotherapist),11,Pediatricia,1000,98% ,Powai,Mumbai
+Dr. Neeta Warty,36,Pediatricia,2700,80% ,Santacruz West,Mumbai
+Dr. Jugal Shah,27,Pediatricia,1500,98% ,Charni Road,Mumbai
+Dr. Supriya Rojekar,25,Pediatricia,800,99% ,Prabhadevi,Mumbai
+Dr. Aparna Joshi,30,Pediatricia,2500,100% ,Kandivali West,Mumbai
+Dr. Jayesh D Desai,37,Pediatricia,2000,75% ,Ghatkopar West,Mumbai
+Dr. Harleen S Kaur,13,Pediatricia,1500,97% ,Khar West,Mumbai
+Dr. Raveena Kini   (Physiotherapist),5,Pediatricia,400,100% ,Vileparle East,Mumbai
+Dr. Akshi Gvalani,12,Pediatricia,500,100% ,Tardeo,Mumbai
+Dr. Ankur Sharma   (Physiotherapist),17,Pediatricia,600,98% ,Malad West,Mumbai
+Dr. Priti Nandanwar,31,Pediatricia,1000,98% ,Chembur,Mumbai
+Dr. Jeetendra Jadhav,23,Pediatricia,799,91% ,Borivali West,Mumbai
+Dr. Dattatraya Kamat,38,Pediatricia,500,100% ,Bandra West,Mumbai
+Dr. Ekta Kukreja Maniyar,13,Pediatricia,800,100% ,Goregaon East,Mumbai
+Dr. Binal Dave   (Physiotherapist),16,Pediatricia,1500,100% ,Prabhadevi,Mumbai
+Dr. Nehal Sabadra,27,Pediatricia,1000,100% ,Colaba,Mumbai
+Dr. Rashika Vijan,21,Pediatricia,1250,100% ,Khar West,Mumbai
+Dr. Priyanka Basu,11,Pediatricia,500,98% ,Andheri West,Mumbai
+Dr. Yoban Shetty,24,Pediatricia,500,100% ,Chembur,Mumbai
+Dr. Priyank Patel,14,Pediatricia,3000,99% ,Tardeo,Mumbai
+Dr. Nimesh Mehta,28,Pediatricia,850,95% ,Borivali West,Mumbai
+Dr. Saurav Samantray,18,Pediatricia,2000,98% ,Santacruz West,Mumbai
+Dr. Akshay Shah,12,Pediatricia,1850,70% ,Parel,Mumbai
+Dr. Rashmi Shetty,18,Pediatricia,500,97% ,Chembur,Mumbai
+Dr. Vandana Bansal,30,Pediatricia,1500,100% ,Santacruz West,Mumbai
+Dr. Mayur N. Jain,13,Pediatricia,1500,78% ,Mulund West,Mumbai
+Dr. Rangnath Jhawar,9,Pediatricia,300,99% ,Mira Road,Mumbai
+Dr. Patil Amit,12,Pediatricia,1500,87% ,Chembur,Mumbai
+Dr. N.K Doctor,51,Pediatricia,1000,100% ,Colaba,Mumbai
+Dr. Gunjan Mehta Thaker,21,Pediatricia,500,97% ,Goregaon East,Mumbai
+Dr. Prajakta Vaidya,15,Pediatricia,3000,100% ,Malad West,Mumbai
+Ms. Ushma Haria,14,Pediatricia,800,100% ,Chembur East,Mumbai
+Dr. Mamatha Shriyan,24,Pediatricia,500,98% ,Malad West,Mumbai
+Dr. Mukesh Agrawal,32,Pediatricia,1600,100% ,Malad West,Mumbai
+Dr. Aditi Lele,15,Pediatricia,500,100% ,Prabhadevi,Mumbai
+Dr. Anil  Bhoraskar,45,Pediatricia,3030,80% ,Bandra East,Mumbai
+Dr. Amjadkhan Pathan,14,Pediatricia,1300,75% ,Powai,Mumbai
+Dr. Mayuresh Deepak Pradhan,21,Pediatricia,1000,100% ,Mira Road,Mumbai
+Dr. Suyash Bhandekar,15,Pediatricia,1200,99% ,Mulund West,Mumbai
+Dr. Nikhil Gurjar,5,Pediatricia,1500,100% ,Mahim,Mumbai
+Mr. Santosh Pandey,10,Pediatricia,1000,96% ,Santacruz West,Mumbai
+Dr. Forum Shah Gada,8,Pediatricia,100,99% ,Malad,Mumbai
+Dr. Anita Sukhwani,32,Pediatricia,3000,95% ,Mahalaxmi,Mumbai
+Dr. Kavita Maheshwari,23,Pediatricia,500,100% ,Bandra West,Mumbai
+Dr. Sharmila Shirish Dhobale,32,Pediatricia,2500,93% ,Goregaon West,Mumbai
+Dr. Kanika Kalyani,14,Pediatricia,500,100% ,Borivali,Mumbai
+Dr. Vinay H Joshi,26,Pediatricia,1000,100% ,Malad West,Mumbai
+Dr. Disha Bhanushali,7,Pediatricia,1000,100% ,Mulund West,Mumbai
+Dr. Swaroop Y Choudhari,11,Pediatricia,700,100% ,Andheri East,Mumbai
+Dr. Kant J Shah,19,Pediatricia,1200,75% ,Malad West,Mumbai
+Dr. Alpa Shah,28,Pediatricia,1000,94% ,Govandi,Mumbai
+Dr. Sunil Ghate,23,Pediatricia,1200,77% ,Chembur East,Mumbai
+Dr. Anand Joshi,27,Pediatricia,1100,99% ,Powai,Mumbai
+Dr. Kaushal Shah,26,Pediatricia,500,99% ,Andheri West,Mumbai
+Dr. Raunak Mehta,11,Pediatricia,500,100% ,Andheri West,Mumbai
+Dr. Mauli Potdar Shah,24,Pediatricia,800,98% ,Kandivali East,Mumbai
+Dr. Neha Shrivastava,11,Pediatricia,1500,99% ,Borivali East,Mumbai
+Dr. Meghana Patwardhan,21,Pediatricia,1200,100% ,Andheri East,Mumbai
+Dr. Adil Gandevivala,15,Pediatricia,500,99% ,Tardeo,Mumbai
+Dr. Rahul N. Patil,16,Pediatricia,400,94% ,Chandivali,Mumbai
+Dr. Hiral Shah,14,Pediatricia,500,99% ,Ghatkopar East,Mumbai
+Dr. Saket Sathe,12,Pediatricia,1000,97% ,Kandivali West,Mumbai
+Dr. Shivkumar G. Lalwani,30,Pediatricia,1000,100% ,Powai,Mumbai
+Dr. Adukia Sachin Ajitkumar,14,Pediatricia,1600,100% ,Powai,Mumbai
+Dr. Dilip Rajpal,28,Pediatricia,1200,100% ,Chembur,Mumbai
+Dr. Girish Gaba,17,Pediatricia,500,99% ,Kurla West,Mumbai
+Dr. Agraja Tripathi,15,Pediatricia,1000,100% ,Ghatkopar West,Mumbai
+Dr. Mary Grace Dakey,15,Pediatricia,500,99% ,Andheri East,Mumbai
+Dr. Danesh Nair,13,Pediatricia,100,100% ,Chembur East,Mumbai
+Dr. Anuradha Narayanan,17,Pediatricia,1000,89% ,Chembur,Mumbai
+Dr. Shankar Zanwar,16,Pediatricia,1200,100% ,Sion,Mumbai
+Dr. Rashi Aryan,11,Pediatricia,1200,100% ,Powai,Mumbai
+Dr. Almas Khan,11,Pediatricia,1000,100% ,Tardeo,Mumbai
+Dr. Mangesh Patil,23,Pediatricia,2000,95% ,Opera House,Mumbai
+Dr. Maya Nair,10,Pediatricia,500,99% ,Mulund West,Mumbai
+Dr. Shruti Jain,19,Pediatricia,1000,97% ,Kemps Corner,Mumbai
+Dr. Sonal Karania Jakharia,11,Pediatricia,500,99% ,Malad West,Mumbai
+Dr. Ankita Sanghvi Shetty,15,Pediatricia,300,100% ,Chembur,Mumbai
+Dr. Prathmesh Mehta,16,Pediatricia,650,98% ,Andheri West,Mumbai
+Dr. Raj Shah,14,Pediatricia,500,98% ,Kemps Corner,Mumbai
+Dr. Jeet Savla,6,Pediatricia,800,100% ,Tardeo,Mumbai
+Dr. Sneha Ramchandani   (Physiotherapist),9,Pediatricia,2000,100% ,Andheri East,Mumbai
+Dr. Rushad Nariman,14,Pediatricia,500,100% ,Malad West,Mumbai
+Dr. Kinjal Anandpara   (Physiotherapist),16,Pediatricia,3000,100% ,Prabhadevi,Mumbai
+Dr. Shivani Baheti,3,Pediatricia,500,100% ,Santacruz West,Mumbai
+Dr. Vinata Shetty,16,Pediatricia,500,100% ,Kandivali West,Mumbai
+Dr. Hemant Patel,21,Pediatricia,1000,97% ,Ghatkopar West,Mumbai
+Dr. Pragnya Rathod,12,Pediatricia,600,97% ,Ghatkopar East,Mumbai
+Dr. Vaijayanti Mahajan,24,Pediatricia,1000,100% ,Bandra East,Mumbai
+Dr. Kajal Sanghvi,2,Pediatricia,500,62% ,Bandra West,Mumbai
+Dr. Ashish Vijay Bakshi,28,Pediatricia,1600,100% ,Powai,Mumbai
+Dr. Pranav Rathi,19,Pediatricia,1000,75% ,Jogeshwari West,Mumbai
+Dr. Austin Fernandes,10,Pediatricia,1800,100% ,Powai,Mumbai
+Dr. Ashish Mishra,4,Pediatricia,1000,100% ,Mira Road,Mumbai
+Dr. Shreyas Shah,17,Pediatricia,1500,100% ,Mulund West,Mumbai
+Dr. Chetan Bhat,22,Pediatricia,3000,98% ,Charni Road,Mumbai
+Dr. Suyash Kulkarni,17,Pediatricia,1500,100% ,Santacruz West,Mumbai
+Dr. Ramesh Patankar,39,Pediatricia,1500,79% ,Chembur East,Mumbai
+Dr. Kishore Manek,41,Pediatricia,1200,93% ,Chembur East,Mumbai
+Dr. Dineshchandra  Goradia,59,Pediatricia,1500,100% ,Grant Road,Mumbai
+Dr. Rajesh Jain,27,Pediatricia,1000,100% ,Malad West,Mumbai
+Dr. Manasi Shreyas Joshi,12,Pediatricia,500,100% ,Mulund West,Mumbai
+Dr. Bhumija Gautam,16,Pediatricia,750,99% ,Andheri West,Mumbai
+Dr. Meeth Atawane,13,Pediatricia,1000,100% ,Andheri East,Mumbai
+Dr. Vasudev,24,Pediatricia,2000,86% ,Bhandup,Mumbai
+Dr. Shalomith Uppapalli,15,Pediatricia,700,100% ,Andheri West,Mumbai
+Dr. Amit Agarkar,18,Pediatricia,600,93% ,Malad West,Mumbai
+Dr. Ravindra Dargainya,15,Pediatricia,700,79% ,Malad West,Mumbai
+Dr. Hemil Jasani,15,Pediatricia,1000,100% ,Chembur,Mumbai
+Dr. Ashok Rajgopal,49,Pediatricia,1500,83% ,Charni Road,Mumbai
+Dr. Anshu Kulkarni,25,Pediatricia,3500,90% ,Sion East,Mumbai
+Dr. Ashutosh Pai,15,Pediatricia,500,100% ,Mahim,Mumbai
+Dr. Amol Patil,19,Pediatricia,1200,98% ,Vileparle West,Mumbai
+Dr. Saurabh Gandhi,8,Pediatricia,1200,100% ,Santacruz West,Mumbai
+Dr. Ruchi Parikh,11,Pediatricia,1750,100% ,Santacruz West,Mumbai
+Dr. Dhanashree Mane Dhabalia,15,Pediatricia,600,100% ,Andheri West,Mumbai
+Dr. Akshay Kumar,2,Pediatricia,399,97% ,Vikhroli East,Mumbai
+Dr. Dhwani Shah   (Physiotherapist),14,Pediatricia,1000,100% ,Borivali West,Mumbai
+Dr. Muffazal Lakdawala,32,Pediatricia,4000,99% ,Worli,Mumbai
+Dr. Gladys Swamy   (Physiotherapist),13,Pediatricia,1000,79% ,Bandra West,Mumbai
+Dr. Girish Date,40,Pediatricia,1000,67% ,Ghatkopar West,Mumbai
+Dr. Ami Sukhija,14,Pediatricia,500,99% ,Andheri West,Mumbai
+Dr. Manoj Gandhi,28,Pediatricia,1000,88% ,Dadar,Mumbai
+Dr. Sneha Naik Samant,13,Pediatricia,1500,97% ,Borivali,Mumbai
+Dr. Milan Balakrishnan,12,Pediatricia,3000,93% ,Bandra West,Mumbai
+Dr. Rajesh Gayakwad,19,Pediatricia,700,100% ,Goregaon West,Mumbai
+Dr. Bhupendra Gandhi,49,Pediatricia,3000,95% ,Charni Road,Mumbai
+Dr. Kanika Madan,13,Pediatricia,500,96% ,Bandra West,Mumbai
+Dr. Chitralekha Rane,22,Pediatricia,800,100% ,Andheri West,Mumbai
+Dr. Sayed Zaffar Karam,12,Pediatricia,1200,50% ,Chembur,Mumbai
+Dr. Harshal Bam,15,Pediatricia,2100,100% ,Parel,Mumbai
+Dr. Komal Jagtap Gaonkar   (Physiotherapist),13,Pediatricia,450,98% ,Mulund West,Mumbai
+Dr. Tushar Thorat,14,Pediatricia,1100,100% ,Charni Road,Mumbai
+Dr. Amol Ramesh Nage,12,Pediatricia,500,99% ,Malad West,Mumbai
+Dr. Rucha Kagne,22,Pediatricia,1500,80% ,Mahim,Mumbai
+Dr. Ashish Phoolchand Prajapati,13,Pediatricia,450,100% ,Borivali West,Mumbai
+Dr. Mazin Deshmukh,9,Pediatricia,500,96% ,Mira Road,Mumbai
+Dr. Nana D Morkane,20,Pediatricia,1200,100% ,Chembur East,Mumbai
+Dr. Shivani Nirav Agrawat,16,Pediatricia,800,99% ,Borivali East,Mumbai
+Dr. Ami Dedhia,13,Pediatricia,1000,100% ,Khar West,Mumbai
+Dr. Divya A Sahetya,12,Pediatricia,1200,100% ,Andheri West,Mumbai
+Ms. Bhumika Khushalani,15,Pediatricia,2000,100% ,Chembur East,Mumbai
+Dr. Apeksha Chaudhari,9,Pediatricia,800,98% ,Marol,Mumbai
+Dr. Prasad Rane,22,Pediatricia,800,99% ,Andheri West,Mumbai
+Dr. Chaitali G Tejale,13,Pediatricia,500,100% ,Ghatkopar East,Mumbai
+Dr. Vijay Deshmukh,47,Pediatricia,3030,83% ,Bandra East,Mumbai
+Dr. Shruti Sheth,15,Pediatricia,400,98% ,Ghatkopar East,Mumbai
+Dr. Manish Agarwal,25,Pediatricia,500,100% ,Bandra West,Mumbai
+Dr. Priyanka Ghuge Avhad,13,Pediatricia,1000,96% ,Chembur,Mumbai
+Dr. Nasreen Akhai,11,Pediatricia,300,100% ,Lower Parel,Mumbai
+Dr. Meghana Toraskar,26,Pediatricia,500,84% ,Sion West,Mumbai
+Dr. Gayatri Bharadwaj,33,Pediatricia,1500,100% ,Mulund West,Mumbai
+Dr. Nikhil A. Gokhale,13,Pediatricia,1000,50% ,Goregaon West,Mumbai
+Dr. Sejal Vivek Parekar,28,Pediatricia,450,92% ,Borivali West,Mumbai
+Dr. Bharti Desai,37,Pediatricia,600,89% ,Matunga West,Mumbai
+Dr. Jathin Rai,16,Pediatricia,1500,85% ,Andheri West,Mumbai
+Dr. S. S. Duggal,40,Pediatricia,1500,100% ,Andheri West,Mumbai
+Dr. Tejal Shah,19,Pediatricia,500,98% ,Goregaon West,Mumbai
+Dr. Shareefa Chause,10,Pediatricia,1200,67% ,Chembur,Mumbai
+Dr. Rahul Shukla,10,Pediatricia,800,100% ,Mira Road,Mumbai
+Dr. Sanjay Chaterjee,22,Pediatricia,1500,97% ,Tardeo,Mumbai
+Dr. Harshika Bavishi,37,Pediatricia,1000,100% ,Chembur East,Mumbai
+Dr. Anupama M Gupta,13,Pediatricia,1000,100% ,Chembur,Mumbai
+Dr. Rajendra Sonavane,37,Pediatricia,1200,97% ,Goregaon West,Mumbai
+Dr. Vikas Dayanath Mishra,27,Pediatricia,1000,98% ,Malad West,Mumbai
+Dr. Sheshang U. Kamath,11,Pediatricia,1500,100% ,Borivali West,Mumbai
+Dr. Wasim Phoplunkar,24,Pediatricia,2200,92% ,Nariman Point,Mumbai
+Dr. Alok Pande,13,Pediatricia,1000,100% ,Tardeo,Mumbai
+Dr. Parijat Roy,9,Pediatricia,1500,100% ,Dadar West,Mumbai
+Dr. Renu Mahashabde   (Physiotherapist),17,Pediatricia,1000,97% ,Worli,Mumbai
+Dr. Pooja Chopra,16,Pediatricia,1500,94% ,Andheri West,Mumbai
+Dr. Umang Kothari,10,Pediatricia,1500,94% ,Malad West,Mumbai
+Dr. Aditya Nair,20,Pediatricia,1500,64% ,Chembur East,Mumbai
+Dr. S.Natarajan,39,Pediatricia,5000,80% ,Wadala,Mumbai
+Dr. Kalpesh Shah,19,Pediatricia,1000,100% ,Ghatkopar West,Mumbai
+Dr. Preety Shah,15,Pediatricia,3000,100% ,Malad West,Mumbai
+Dr. Sonal Katwala,23,Pediatricia,800,97% ,Borivali West,Mumbai
+Dr. Sushrut Save,15,Pediatricia,1500,97% ,Dadar,Mumbai
+Ms. Afshan Nafis,19,Pediatricia,2000,100% ,Kandivali East,Mumbai
+Dr. Prashant Rajput,21,Pediatricia,2850,67% ,Parel,Mumbai
+Dr. Abhijit Ahuja,7,Pediatricia,1500,91% ,Chembur East,Mumbai
+Dr. Rakesh Dhake,10,Pediatricia,1500,100% ,Goregaon West,Mumbai
+Dr. Amol Rane,23,Pediatricia,1500,100% ,Bhandup West,Mumbai
+Dr. Jahnvi Purushottam Thakur,24,Pediatricia,1200,67% ,Mulund West,Mumbai
+Dr. D. Shrinivas,23,Pediatricia,1200,88% ,Chembur East,Mumbai
+Dr. Nilima B. Inamdar,39,Pediatricia,1000,68% ,Goregaon West,Mumbai
+Ms. Mithila Desai,35,Pediatricia,2850,94% ,Borivali West,Mumbai
+Dr. Bhavin Shial,22,Pediatricia,2500,97% ,Andheri West,Mumbai
+Dr. Satarupa Deb,8,Pediatricia,1500,100% ,Bandra West,Mumbai
+Dr. Saloni Vora,9,Pediatricia,1250,93% ,Juhu,Mumbai
+Dr. Harish Chafle,14,Pediatricia,2100,100% ,Parel,Mumbai
+Dr. Akshay Chitnis,6,Pediatricia,1500,99% ,Bandra,Mumbai
+Dr. Aditi Gvalani,18,Pediatricia,1000,100% ,Tardeo,Mumbai
+Dr. Soumil Trivedi,15,Pediatricia,2000,100% ,Ghatkopar East,Mumbai
+Dr. Relina Peris   (Physiotherapist),10,Pediatricia,500,92% ,Powai,Mumbai
+Dr. Astha Jain,13,Pediatricia,3030,92% ,Chembur,Mumbai
+Dr. Nikhil J Arbatti,21,Pediatricia,1000,100% ,Bandra East,Mumbai
+Dr. Shravan Chawla,14,Pediatricia,1500,94% ,Peddar Road,Mumbai
+Dr. Dipak D Goradia,46,Pediatricia,200,100% ,Grant Road,Mumbai
+Dr. Sonali P. Vanmali,23,Pediatricia,4000,77% ,Kandivali East,Mumbai
+Dr. Percy J Chibber,42,Pediatricia,450,100% ,Charni Road,Mumbai
+Dr. Kavita Nayak,24,Pediatricia,1500,100% ,Borivali West,Mumbai
+Dr. Hemakshi Basu   (Physiotherapist),29,Pediatricia,4000,98% ,Worli,Mumbai
+Dr. Arun Swarup,43,Pediatricia,1000,99% ,Bandra West,Mumbai
+Dr. Pooja Vora Jhonsa   (Physiotherapist),22,Pediatricia,700,100% ,Powai,Mumbai
+Dr. Saadan  Shahid,25,Pediatricia,450,100% ,Lokhandwala,Mumbai
+Dr. Shruti Tapiawala,18,Pediatricia,2850,98% ,Parel,Mumbai
+Dr. Rajasree S,16,Pediatricia,1500,100% ,Santacruz West,Mumbai
+Dr. Rishit Harbada,6,Pediatricia,1200,100% ,Goregaon West,Mumbai
+Dr. Nilesh  G Satbhai,23,Pediatricia,2600,100% ,Parel,Mumbai
+Dr. Sneha Suresh Prabhu,13,Pediatricia,1200,100% ,Bandra West,Mumbai
+Dr. Vishal Dhanjani,20,Pediatricia,500,100% ,Ghatkopar East,Mumbai
+Dr. Sudheer Pargewar,14,Pediatricia,1850,98% ,Parel,Mumbai
+Dr. Dikshit Jodhavat,15,Pediatricia,500,100% ,Andheri East,Mumbai
+Dr. Swati Maurya,13,Pediatricia,300,96% ,Chandivali,Mumbai
+Dr. Maimoona Ahmed,12,Pediatricia,750,100% ,Malad West,Mumbai
+Dr. Gopal Patil,54,Pediatricia,1200,99% ,Chembur East,Mumbai
+Dr. Angelo Smith,23,Pediatricia,500,100% ,Matunga West,Mumbai
+Dr. Ritika Goyal,10,Pediatricia,200,81% ,Malad,Mumbai
+Dr. Sumedha Tiwari,12,Pediatricia,1500,96% ,Andheri West,Mumbai
+Dr. Avinash Katara,29,Pediatricia,3000,71% ,Tardeo,Mumbai
+Dr. Sanchaita Garg Shah,13,Pediatricia,700,92% ,Parel,Mumbai
+Dr. Swarup Sampat,19,Pediatricia,450,57% ,Lokhandwala,Mumbai
+Dr. Aishwarya Nair,15,Pediatricia,1000,96% ,Tardeo,Mumbai
+Dr. Siddharth Vinod Lakhani,14,Pediatricia,2000,89% ,Chembur,Mumbai
+Dr. Amit Bhagwan Thadhani,23,Pediatricia,1200,99% ,Chembur East,Mumbai
+Dr. Bhushan Ghodke,15,Pediatricia,600,100% ,Andheri West,Mumbai
+Dr. Kalpesh Shah,21,Pediatricia,1000,99% ,Ghatkopar East,Mumbai
+Dr. Jitendra Kumar Sakhrani,10,Pediatricia,2000,98% ,Tardeo,Mumbai
+Dr. Bhavesh Doshi,14,Pediatricia,1100,100% ,Malad West,Mumbai
+Dr. Khushee Agrawal,12,Pediatricia,500,100% ,Goregaon East,Mumbai
+Dr. Sana Kazi,5,Pediatricia,500,100% ,Oshiwara,Mumbai
+Dr. Ameya Manish Sonawane,13,Pediatricia,500,100% ,Lokhandwala,Mumbai
+Dr. Yatin Thakorlal Shah,13,Pediatricia,1000,100% ,Malad West,Mumbai
+Dr. Shraddha Deshpande,16,Pediatricia,1500,100% ,Mumbai Central,Mumbai
+Dr. Dean Creado,19,Pediatricia,1800,100% ,Bandra West,Mumbai
+Dr. Kiran C Mhatre,25,Pediatricia,1200,88% ,Chembur East,Mumbai
+Dr. Mansi Verma,10,Pediatricia,1000,100% ,Malad West,Mumbai
+Dr. Shaili Shah,13,Pediatricia,500,100% ,Khar West,Mumbai
+Dr. Rohit Deshmukh,6,Pediatricia,1500,100% ,Malad,Mumbai
+Ms. Binaifer Sahukar,31,Pediatricia,4300,84% ,Dadar East,Mumbai
+Dr. Madhulika Goyle,16,Pediatricia,800,99% ,Andheri West,Mumbai
+Dr. Swati Ravjiani,30,Pediatricia,750,100% ,Ghatkopar East,Mumbai
+Dr. Prachi Parmar,13,Pediatricia,499,100% ,Ghatkopar,Mumbai
+Dr. Namrata Adulkar,16,Pediatricia,2000,100% ,Charni Road,Mumbai
+Dr. Nikita Patel,5,Pediatricia,300,100% ,Andheri East,Mumbai
+Dr. Trupti Gilada,16,Pediatricia,2500,75% ,Lamington Road,Mumbai
+Dr. Bhushan Sabnis,24,Pediatricia,2000,100% ,Andheri West,Mumbai
+Dr. Trupti Gharat,14,Pediatricia,500,100% ,Tilak Nagar,Mumbai
+Dr. Vaishali Chaudhari,15,Pediatricia,1000,92% ,Chembur East,Mumbai
+Dr. Anshudeep Dodake,12,Pediatricia,500,100% ,Parel,Mumbai
+Dr. Pranjal Kodkani,29,Pediatricia,2000,100% ,Bandra West,Mumbai
+Dr. Dipti Patel,20,Pediatricia,1250,100% ,Mumbai Central,Mumbai
+Dr. Vaishali Shedge,16,Pediatricia,800,94% ,Borivali West,Mumbai
+Ms. Mansi M Doshi,20,Pediatricia,2500,95% ,Vileparle West,Mumbai
+Dr. Vishal Punjabi,9,Pediatricia,1000,100% ,Tardeo,Mumbai
+Dr. Shruti Ghatalia,23,Pediatricia,1000,96% ,Ghatkopar West,Mumbai
+Dr. Varsha Gupta,15,Pediatricia,500,73% ,Ghatkopar West,Mumbai
+Dr. Amit Prabhakar Maydeo,43,Pediatricia,3500,100% ,Charni Road,Mumbai
+Dr. Ankita Chauhan,12,Pediatricia,600,100% ,Ghatkopar West,Mumbai
+Dr. Jyoti R Jangale,15,Pediatricia,800,100% ,Mulund West,Mumbai
+Dr. Neha Hardasani Thaver,10,Pediatricia,300,95% ,Lokhandwala,Mumbai
+Dr. Geoffrey Vaz,11,Pediatricia,1000,80% ,Versova,Mumbai
+Dr. Supriya Bhat,10,Pediatricia,1000,100% ,Vileparle West,Mumbai
+Dr. Sayali Randive,8,Pediatricia,300,100% ,Mulund West,Mumbai
+Dr. Shrutika Jaju,12,Pediatricia,500,100% ,Vileparle West,Mumbai
+Dr. Meghna Radhakrishnan,11,Pediatricia,500,100% ,Chembur East,Mumbai
+Dr. Rinal Sanghavi,9,Pediatricia,1000,99% ,Tardeo,Mumbai
+Dr. Santosh Patil,20,Pediatricia,1000,100% ,Chembur,Mumbai
+Dr. Simoni Shah,7,Pediatricia,1600,99% ,Walkeshwar,Mumbai
+Dr. Shreya Prabhoo,15,Pediatricia,1200,100% ,Andheri East,Mumbai
+Dr. Rohit Mody,35,Pediatricia,3000,100% ,Ghatkopar West,Mumbai
+Ms. Anureet Sethi,35,Pediatricia,3500,100% ,Powai,Mumbai
+Dr. Reny Miglani,38,Pediatricia,700,100% ,Mulund West,Mumbai
+Dr. Rhutuja Kamat,7,Pediatricia,300,100% ,Bandra West,Mumbai
+Dr. Sanjana Shiggaon,19,Pediatricia,1000,98% ,Ghatkopar West,Mumbai
+Dr. Rima Sonpal,12,Pediatricia,800,100% ,Ghatkopar West,Mumbai
+Dr. Kalpana B Tiwari,12,Pediatricia,700,100% ,Chembur,Mumbai
+Dr. Smita Gavade,15,Pediatricia,1000,75% ,Chembur East,Mumbai
+Dr. Gautam Nadkarni,26,Pediatricia,1000,94% ,Chembur,Mumbai
+Dr. Nikita Virdiya,10,Pediatricia,200,100% ,Kandivali West,Mumbai
+Dr. Gail Chaudhari,30,Pediatricia,800,96% ,Oshiwara,Mumbai
+Dr. Mihir Trivedi,11,Pediatricia,1000,97% ,Malad West,Mumbai
+Dr. Rupesh.N.Nayak,16,Pediatricia,800,100% ,Chembur,Mumbai
+Dr. Shruti Shah,16,Pediatricia,500,75% ,Dadar East,Mumbai
+Dr. Umakant V. Ragte,47,Pediatricia,550,100% ,Mumbai Central,Mumbai
+Dr. Pruthviraj Dabarase,15,Pediatricia,1500,89% ,Vikhroli,Mumbai
+Dr. Disha Ashar   (Physiotherapist),13,Pediatricia,3000,92% ,Linking Road,Mumbai
+Dr. Jyoti Maheshwari,28,Pediatricia,250,100% ,Andheri West,Mumbai
+Dr. Dias Jewel Josephine James,8,Pediatricia,1000,94% ,Borivali West,Mumbai
+Dr. Ramakanta Panda,45,Pediatricia,11200,68% ,Bandra East,Mumbai
+Dr. Charmy Dedhiya,15,Pediatricia,1000,88% ,Chembur East,Mumbai
+Dr. Bipeenchandra Y. Bhamre,16,Pediatricia,1100,100% ,Charni Road,Mumbai
+Dr. Hardik Bhangde,14,Pediatricia,500,100% ,Mulund West,Mumbai
+Dr. Rachana Bhama,16,Pediatricia,500,98% ,Powai,Mumbai
+Dr. Pooja Jain,22,Pediatricia,500,100% ,Goregaon West,Mumbai
+Dr. Nita Shanbhag,34,Pediatricia,1000,100% ,Chembur East,Mumbai
+Dr. Shruti Rai,9,Pediatricia,700,100% ,Chembur,Mumbai
+Dr. Iti Garg,16,Pediatricia,500,100% ,Wadala,Mumbai
+Dr. Anuja Jadhav,6,Pediatricia,900,98% ,Dadar,Mumbai
+Dr. Samantha Castellino,13,Pediatricia,900,99% ,Andheri East,Mumbai
+Dr. Disha Bamboli   (Physiotherapist),10,Pediatricia,600,100% ,Jogeshwari West,Mumbai
+Dr. Kirti Jangid Patil,12,Pediatricia,500,100% ,Powai,Mumbai
+Dr. Smruti Karambelkar,12,Pediatricia,1500,100% ,Andheri West,Mumbai
+Dr. Manisha Kshirsagar,19,Pediatricia,1000,91% ,Vikhroli East,Mumbai
+Dr. Dhananjay Parab,10,Pediatricia,1000,99% ,Ghatkopar West,Mumbai
+Dr. Pankaj Savla,14,Pediatricia,500,100% ,Andheri West,Mumbai
+Dr. Sarthak Rastogi,15,Pediatricia,1500,92% ,Chembur East,Mumbai
+Dr. Dhrumil Vinesh Panchal,8,Pediatricia,600,96% ,Wadala,Mumbai
+Dr. Prachi Shah,12,Pediatricia,500,100% ,Khar West,Mumbai
+Dr. Mahika Tekchandani,8,Pediatricia,500,100% ,Khar West,Mumbai
+Dr. Jigna Kanavia,20,Pediatricia,500,100% ,Malad West,Mumbai
+Dr. Kavita Rao,27,Pediatricia,1400,100% ,Wadala,Mumbai
+Dr. Dhwani Kapadia,11,Pediatricia,800,100% ,Borivali West,Mumbai
+Dr. Chinmay Kulkarni,14,Pediatricia,1500,99% ,Powai,Mumbai
+Dr. Potdar Ankit Vivek,12,Pediatricia,1000,88% ,Chembur,Mumbai
+Dr. Pranav Gujarathi,15,Pediatricia,300,100% ,Kemps Corner,Mumbai
+Dr. Utsav Shah   (Physiotherapist),10,Pediatricia,4000,100% ,Worli,Mumbai
+Dr. Jayshree Raurale,15,Pediatricia,800,98% ,Kandivali West,Mumbai
+Dr. Rahul Siraskar,14,Pediatricia,1000,97% ,Sion,Mumbai
+Dr. Krutika Dongre,10,Pediatricia,450,100% ,Sion,Mumbai
+Ms. Ritu Agarwal,20,Pediatricia,1100,67% ,Andheri West,Mumbai
+Dr. Maheboob Basade,29,Pediatricia,1500,92% ,Charni Road,Mumbai
+Dr. Mital Bhadra,13,Pediatricia,200,99% ,Ghatkopar West,Mumbai
+Mr. Ashutosh Pandey,17,Pediatricia,500,83% ,Andheri East,Mumbai
+Dr. Ridhika Jhunjhunwala,9,Pediatricia,800,100% ,Andheri East,Mumbai
+Dr. Afifa Syed,9,Pediatricia,450,100% ,Girgaon,Mumbai
+Dr. Alka Barvalia,16,Pediatricia,2000,100% ,Ghatkopar East,Mumbai
+Dr. Sumeeta Padgaonkar,25,Pediatricia,400,100% ,Mulund West,Mumbai
+Dr. Prashant Pawar,14,Pediatricia,2000,100% ,Chembur,Mumbai
+Dr. Mangesh Kohale,21,Pediatricia,1500,88% ,Mumbai Central,Mumbai
+Dr. Madhur G Maheshwari,11,Pediatricia,2000,97% ,Andheri West,Mumbai
+Dr. Sumeet G Pawar,14,Pediatricia,2000,100% ,Chembur East,Mumbai
+Dr. Prasad Wankhede,15,Pediatricia,1200,98% ,Worli,Mumbai
+Dr. Trishna Chitnis,7,Pediatricia,1500,100% ,Andheri West,Mumbai
+Dr. Chirag Desai,13,Pediatricia,1000,100% ,Dadar East,Mumbai
+Dr. Asmita Jha,9,Pediatricia,500,99% ,Chembur,Mumbai
+Dr. Gauri Merchant,34,Pediatricia,2000,88% ,Charni Road,Mumbai
+Dr. Gangurde Pritimala Bhalchandra,20,Pediatricia,1000,100% ,Kandivali West,Mumbai
+Dr. Natasha Tipnis,9,Pediatricia,2000,100% ,Ghatkopar West,Mumbai
+Dr. Mihir K. Upadhyaya,12,Pediatricia,1500,100% ,Worli,Mumbai
+Dr. Vishrut Newaskar,15,Pediatricia,1500,100% ,Bandra West,Mumbai
+Dr. Jyoti Shetty,30,Pediatricia,1200,71% ,Bandra East,Mumbai
+Dr. Nidhi Rajesh Chheda,8,Pediatricia,400,98% ,Matunga East,Mumbai
+Dr. Rohan Palshetkar,13,Pediatricia,500,100% ,Opera House,Mumbai
+Dr. Patil Priyanka Harishchandra,14,Pediatricia,300,100% ,Mira Bhayandar,Mumbai
+Dr. Srishti Tody,10,Pediatricia,1500,100% ,Malad West,Mumbai
+Dr. Rahul Oza,13,Pediatricia,500,75% ,Juhu,Mumbai
+Dr. Vinisha Abhale,32,Pediatricia,1500,100% ,Parel,Mumbai
+Dr. Bhuta Maunil Ajay,13,Pediatricia,1500,100% ,Chembur,Mumbai
+Dr. Nisarg Bhatt,9,Pediatricia,1200,100% ,Malad West,Mumbai
+Dr. Aditi S. Trivedi,12,Pediatricia,2000,100% ,Ghatkopar East,Mumbai
+Dr. Maulik Parekh,15,Pediatricia,2000,75% ,Charni Road,Mumbai
+Dr. Abhidha Shah,15,Pediatricia,2500,100% ,Colaba,Mumbai
+Dr. Nirav Navin Tanna,17,Pediatricia,800,100% ,Cuffe Parade,Mumbai
+Dr. Mayank Jain,11,Pediatricia,500,100% ,Goregaon West,Mumbai
+Dr. Rasika M Palekar (Rajpurkar)   (Physiotherapist),13,Pediatricia,1000,100% ,Kandivali West,Mumbai
+Dr. Nidhi Shah,7,Pediatricia,1250,100% ,Marine Lines,Mumbai
+Dr. Vaidehi Saigaonkar Newaskar,13,Pediatricia,1500,100% ,Bandra West,Mumbai
+Dr. Nidhi Joshi,9,Pediatricia,500,100% ,Goregaon West,Mumbai
+Dr. Farhath Sayed,12,Pediatricia,1000,98% ,Lokhandwala,Mumbai
+Dr. Prashant Makhija,19,Pediatricia,2000,92% ,Mumbai Central,Mumbai
+Ms. Sheetal Bidkar,15,Pediatricia,3500,100% ,Peddar Road,Mumbai
+Dr. Sambit M Nanda,10,Pediatricia,1000,95% ,Bandra West,Mumbai
+Dr. Santosh Jagtap,28,Pediatricia,1200,100% ,Chembur East,Mumbai
+Dr. Ketki Trivedi,37,Pediatricia,300,96% ,Vileparle West,Mumbai
+Dr. Zubeda Tumbi   (PhD),34,Pediatricia,1500,93% ,Andheri West,Mumbai
+Dr. Ismail Shaikh,25,Pediatricia,1000,93% ,Colaba,Mumbai
+Dr. Nitin Sonavane,14,Pediatricia,1500,60% ,Borivali East,Mumbai
+Dr. Sonyabai Sasane,8,Pediatricia,800,100% ,Borivali West,Mumbai
+Dr. Yafta Saiyad,22,Pediatricia,500,83% ,Santacruz West,Mumbai
+Dr. Kartik Krishnan,9,Pediatricia,2500,100% ,Nariman Point,Mumbai
+Dr. Geetanjali Gariema,22,Pediatricia,1500,88% ,Oshiwara,Mumbai
+Dr. Bushra Alam,15,Pediatricia,300,100% ,Powai,Mumbai
+Dr. Rinoy Sreedharan,15,Pediatricia,500,100% ,Bhandup,Mumbai
+Dr. Radhika Sheth,15,Pediatricia,1000,100% ,Jogeshwari West,Mumbai
+Dr. Swati Upendra Limaye,26,Pediatricia,1500,100% ,Goregaon East,Mumbai
+Dr. Richa Bansal,12,Pediatricia,1000,100% ,Chembur,Mumbai
+Mr. Anshul Khosla,3,Pediatricia,1300,100% ,Bandra West,Mumbai
+Dr. Akhil Patil,8,Pediatricia,500,100% ,Khar West,Mumbai
+Dr. Brijesh Dube,25,Pediatricia,1000,100% ,Malad West,Mumbai
+Dr. Fatema Gandevivala,9,Pediatricia,300,100% ,Tardeo,Mumbai
+Dr. Karande Shalaka Vijay,12,Pediatricia,300,100% ,Goregaon West,Mumbai
+Dr. Zahabia Basrai   (Physiotherapist),14,Pediatricia,2000,100% ,Worli,Mumbai
+Dr. Vijay V. Haribhakti,38,Pediatricia,4000,92% ,Charni Road,Mumbai
+Dr. Anvay Vinayak Mulay,33,Pediatricia,1500,89% ,Charni Road,Mumbai
+Dr. Kashmira Sandeep Kesarkar,12,Pediatricia,300,100% ,Andheri East,Mumbai
+Dr. Sanket Gavhane,16,Pediatricia,500,100% ,Ghatkopar East,Mumbai
+Dr. Juwairia Usmani,1,Pediatricia,200,100% ,Mira Road,Mumbai
+Dr. Sneha Madkaiker,16,Pediatricia,1600,100% ,Andheri West,Mumbai
+Dr. Parvati Banu,26,Pediatricia,1200,88% ,Chembur East,Mumbai
+Dr. Mahajan Deepak Sevakram,15,Pediatricia,300,100% ,Dadar,Mumbai
+Dr. Pragati P Shah,11,Pediatricia,500,90% ,Borivali West,Mumbai
+Dr. Munira Inamdar,21,Pediatricia,500,88% ,Umerkhadi,Mumbai
+Dr. Manoj R. Mashru,37,Pediatricia,2500,92% ,Charni Road,Mumbai
+Dr. Khushboo Nikhil Kedia,15,Pediatricia,300,95% ,Mulund West,Mumbai
+Dr. Nirali Dedhia,9,Pediatricia,1000,100% ,Malad West,Mumbai
+Dr. Pritam Sureshchandra Kataria,9,Pediatricia,1500,100% ,Charni Road,Mumbai
+Dr. Khyati Sanghvi   (Physiotherapist),11,Pediatricia,300,100% ,Ghatkopar East,Mumbai
+Dr. Ramesh Kawar,26,Pediatricia,1500,80% ,Malad West,Mumbai
+Dr. Ekta Doctor,26,Pediatricia,500,75% ,Colaba,Mumbai
+Dr. Akanksha Rathi Maheshwari,10,Pediatricia,2000,100% ,Andheri West,Mumbai
+Dr. Haresh Asnani,37,Pediatricia,1000,100% ,Chembur East,Mumbai
+Dr. Deepak K. Jaybhaye,10,Pediatricia,500,100% ,Bhandup West,Mumbai
+Dr. Neetu Patel,28,Pediatricia,400,100% ,Malad West,Mumbai
+Dr. Saloni Mehta,7,Pediatricia,800,100% ,Malad East,Mumbai
+Dr. Vinita Tekchandani,12,Pediatricia,500,100% ,Bandra West,Mumbai
+Dr. Ninad Muley,10,Pediatricia,1000,100% ,Tardeo,Mumbai
+Dr. Sinu Sudharmani,8,Pediatricia,450,100% ,Khar West,Mumbai
+Dr. Janhavi Rankhambe   (Physiotherapist),25,Pediatricia,530,100% ,Powai,Mumbai
+Ms. Vidya Rao Karane,13,Pediatricia,530,98% ,Powai,Mumbai
+Dr. Sourabh Welling,21,Pediatricia,500,100% ,Andheri East,Mumbai
+Ms. Sajida Shaikh,5,Pediatricia,1000,100% ,Mira Road,Mumbai
+Dr. Nitesh Agrawal,15,Pediatricia,1000,100% ,Vileparle West,Mumbai
+Dr. Sonali Khaire,18,Pediatricia,5130,100% ,Andheri West,Mumbai
+Dr. Tilak Suvarna,37,Pediatricia,3000,91% ,Bandra East,Mumbai
+Dr. Rushi Deshpande,19,Pediatricia,4000,67% ,Charni Road,Mumbai
+Dr. Dilip Trivedi,53,Pediatricia,600,100% ,Charni Road,Mumbai
+Dr. Kshitija Arjun Khillare,3,Pediatricia,500,100% ,Powai,Mumbai
+Dr. Usha Beloskar,27,Pediatricia,1000,100% ,Kala Ghoda,Mumbai
+Dr. Kaynat Gilani,13,Pediatricia,1000,100% ,Khar West,Mumbai
+Dr. Apeksha Pawshe   (Physiotherapist),7,Pediatricia,1000,100% ,Worli,Mumbai
+Dr. Claries Swamy   (Physiotherapist),16,Pediatricia,2000,98% ,Bandra West,Mumbai
+Dr. Rahul Nair,14,Pediatricia,1500,100% ,Goregaon West,Mumbai
+Dr. Noorsabha A. Khan,13,Pediatricia,1000,100% ,Lokhandwala,Mumbai
+Dr. Pradeep Tiwari,7,Pediatricia,1000,100% ,Chembur,Mumbai
+Dr. Ashwini Bansode,19,Pediatricia,1000,82% ,Goregaon East,Mumbai
+Dr. Rahul Sheth,28,Pediatricia,1100,100% ,Charni Road,Mumbai
+Ms. Ruchi Manek,13,Pediatricia,2000,93% ,Matunga,Mumbai
+Dr. Amrita Utekar,11,Pediatricia,1500,100% ,Chembur,Mumbai
+Ms. Rashi Laskari,14,Pediatricia,1800,98% ,Andheri West,Mumbai
+Dr. Preeti Savarkedar,26,Pediatricia,500,92% ,Peddar Road,Mumbai
+Dr. Punit Shah,15,Pediatricia,1000,100% ,Tardeo,Mumbai
+Dr. Meryl Rebello,11,Pediatricia,900,100% ,Malad West,Mumbai
+Ms. Richa Doshi,13,Pediatricia,800,97% ,Kandivali West,Mumbai
+Dr. Ashwin Shetty,12,Pediatricia,1500,89% ,Charni Road,Mumbai
+Dr. Rukhsar Ansari   (Physiotherapist),8,Pediatricia,600,100% ,Powai,Mumbai
+Dr. Afiya Kachru,8,Pediatricia,2000,100% ,Andheri East,Mumbai
+Dr. Thamba Aseem,27,Pediatricia,2000,67% ,Chembur,Mumbai
+Ms. Anushree Lokhande,9,Pediatricia,300,96% ,Worli,Mumbai
+Dr. Mayuri Surve,13,Pediatricia,1500,80% ,Ghatkopar East,Mumbai
+Dr. Ganesh Manudhane,12,Pediatricia,1500,100% ,Goregaon,Mumbai
+Dr. Ajit Mishra,13,Pediatricia,1200,100% ,Malad West,Mumbai
+Dr. Nilesh Potdar,14,Pediatricia,1500,100% ,Chembur,Mumbai
+Dr. Roshani Desai,16,Pediatricia,1000,100% ,Malad West,Mumbai
+Dr. Swati Gaba,9,Pediatricia,500,100% ,Kurla West,Mumbai
+Dr. Davinder Tulpule,31,Pediatricia,1500,100% ,Mumbai Central,Mumbai
+Dr. Piyusha Shankar,8,Pediatricia,1000,97% ,Peddar Road,Mumbai
+Dr. Ajit R. Menon,28,Pediatricia,4000,100% ,Charni Road,Mumbai
+Dr. Shweta Bhanushali,6,Pediatricia,500,71% ,Mulund West,Mumbai
+Dr. Nikita Jadhav,9,Pediatricia,1200,89% ,Lal baug,Mumbai
+Ms. Shweta Uchil,24,Pediatricia,1000,93% ,Kandivali West,Mumbai
+Dr. Amit Raja,18,Pediatricia,1200,100% ,Tardeo,Mumbai
+Dr. Nimitt Nagda,9,Pediatricia,800,90% ,Chembur,Mumbai
+Dr. Greeshma Shenoy   (Physiotherapist),15,Pediatricia,1500,50% ,Powai,Mumbai
+Dr. Pranav Thakkar,9,Pediatricia,500,100% ,Mulund West,Mumbai
+Dr. Keyur Dave,9,Pediatricia,1200,89% ,Goregaon West,Mumbai
+Ms. Nipa Sanghavi,13,Pediatricia,2000,85% ,Worli,Mumbai
+Dr. Amit Kolekar,19,Pediatricia,1000,67% ,Goregaon West,Mumbai
+Dr. Nikhil Agrawal,21,Pediatricia,1000,67% ,Malad West,Mumbai
+Dr. Manjushree Bhandari,33,Pediatricia,3030,89% ,Bandra East,Mumbai
+Dr. Mrudul vishanji dharod,16,Pediatricia,2000,91% ,Charni Road,Mumbai
+Ms. Dt Ruchita Maheshwari,11,Pediatricia,850,100% ,Andheri East,Mumbai
+Ms. Deesha Ponda,16,Pediatricia,1000,100% ,Malad West,Mumbai
+Dr. Mudit Khanna,24,Pediatricia,2500,100% ,Mumbai Central,Mumbai
+Dr. Hemant Kanojiya,27,Pediatricia,1500,86% ,Kandivali,Mumbai
+Dr. Ashish Hariram Yadav,10,Pediatricia,299,100% ,Kandivali East,Mumbai
+Dr. Tushar Yadav,9,Pediatricia,300,100% ,Ghatkopar East,Mumbai
+Dr. Girish Warawdekar,31,Pediatricia,3030,86% ,Bandra East,Mumbai
+Dr. Aditya Patil,14,Pediatricia,1500,75% ,Wadala,Mumbai
+Dr. Bhagunde Jaya Ashok,20,Pediatricia,500,100% ,Vakola,Mumbai
+Dr. Roli Dave   (Physiotherapist),25,Pediatricia,530,98% ,Powai,Mumbai
+Ms. Urvi Vakharia,18,Pediatricia,250,100% ,Mulund West,Mumbai
+Dr. Sonali Kohli,10,Pediatricia,1500,67% ,Charni Road,Mumbai
+Dr. Ketaki Shingare   (Physiotherapist),13,Pediatricia,1000,100% ,Ghatkopar East,Mumbai
+Ms. Richa Anand,23,Pediatricia,900,100% ,Powai,Mumbai
+Dr. Chaitali Khona,7,Pediatricia,500,98% ,Mulund West,Mumbai
+Ms. Hvovi Bhagwagar,24,Pediatricia,4000,100% ,Powai,Mumbai
+Dr. Nandan Purandare,15,Pediatricia,1000,67% ,Dadar,Mumbai
+Dr. Nilen Shah,27,Pediatricia,2000,96% ,Charni Road,Mumbai
+Dr. Manveen Kaur Lamba,8,Pediatricia,300,100% ,Oshiwara,Mumbai
+Dr. Vani Kulhalli,19,Pediatricia,2500,95% ,Bandra West,Mumbai
+Dr. Sharmishtha Prashant Kewle,17,Pediatricia,1000,100% ,Chembur,Mumbai
+Dr. Supriya V.B.,13,Pediatricia,1200,100% ,Bandra West,Mumbai
+Dr. Rajani Singh   (Physiotherapist),4,Pediatricia,600,100% ,Andheri East,Mumbai
+Dr. Swapna Patil,18,Pediatricia,1500,100% ,Wadala,Mumbai
+Dr. Meghraj Holambe,6,Pediatricia,1200,100% ,Goregaon East,Mumbai
+Dr. Ansari Mohammed Humaam,10,Pediatricia,1000,100% ,Chembur,Mumbai
+Dr. Prisha N Doshi   (Physiotherapist),7,Pediatricia,500,100% ,Andheri,Mumbai
+Dr. Nanaware Sameer V,22,Pediatricia,1500,100% ,Chembur,Mumbai
+Dr. Deepanjali Pathak,13,Pediatricia,600,97% ,Goregaon East,Mumbai
+Dr. Archana singh,13,Pediatricia,300,50% ,Dadar,Mumbai
+Dr. Sarika Jambhulkar   (Physiotherapist),12,Pediatricia,1500,99% ,Andheri West,Mumbai
+Dr. Ashwin.B. Mehta,57,Pediatricia,4000,100% ,Charni Road,Mumbai
+Dr. Nidhi Thaker,13,Pediatricia,700,100% ,Goregaon West,Mumbai
+Dr. Swapneel Shah,8,Pediatricia,500,100% ,Kandivali,Mumbai
+Dr. Anshumali Mishra,6,Pediatricia,600,100% ,Malad West,Mumbai
+Dr. Arjun Dhawale,18,Pediatricia,1500,100% ,Charni Road,Mumbai
+Dr. Shivaprakash Krishnanaik,30,Pediatricia,1100,100% ,Charni Road,Mumbai
+Dr. Dhiraj Bhattad,16,Pediatricia,1500,100% ,Charni Road,Mumbai
+Dr. Dhruti Mahajan,16,Pediatricia,1500,100% ,Mulund West,Mumbai
+Dr. Mishil Parikh,14,Pediatricia,1500,100% ,Charni Road,Mumbai
+Dr. Prem Singh   (PhD),26,Pediatricia,1500,100% ,Andheri West,Mumbai
+Dr. Surekha Kadam,19,Pediatricia,1600,100% ,Mira Road,Mumbai
+Dr. Hemant T Mehta,33,Pediatricia,2000,71% ,Charni Road,Mumbai
+Dr. Firuza.R.  Parikh,43,Pediatricia,2000,100% ,Charni Road,Mumbai
+Dr. Simit Vora,15,Pediatricia,1000,50% ,Borivali West,Mumbai
+Dr. Nitish Kotwal,38,Pediatricia,2000,100% ,Oshiwara,Mumbai
+Dr. Sushant Lokhande,12,Pediatricia,300,100% ,Kemps Corner,Mumbai
+Dr. Ashwini Yogesh Ujawe,19,Pediatricia,450,100% ,Lokhandwala,Mumbai
+Dr. Divyesh Dongre,6,Pediatricia,500,100% ,Juhu,Mumbai
+Dr. Chandan Chaudhari,19,Pediatricia,1500,100% ,Mumbai Central,Mumbai
+Dr. Mitesh Jain,19,Pediatricia,1000,99% ,Chembur East,Mumbai
+Dr. Kalpesh Thakur,26,Pediatricia,3030,100% ,Bandra East,Mumbai
+Dr. Meghal Sanghvi,22,Pediatricia,1200,100% ,Chembur,Mumbai
+Ms. Deepika Gandhi,9,Pediatricia,2000,96% ,Powai,Mumbai
+Dr. Sultanali Shaikh,8,Pediatricia,450,75% ,Girgaon,Mumbai
+Dr. Priyadarshini Seal,7,Pediatricia,500,92% ,Tilak Nagar,Mumbai
+Dr. Atreyi Ganguly,6,Pediatricia,300,100% ,Khar West,Mumbai
+Dr. Smita Thorve,9,Pediatricia,1500,88% ,Chembur East,Mumbai
+Dr. Carlton Pereira,27,Pediatricia,3030,69% ,Bandra East,Mumbai
+Dr. Neetu Jetwani,16,Pediatricia,1500,33% ,Chembur,Mumbai
+Dr. Nilesh Jain,23,Pediatricia,1500,78% ,Ghatkopar East,Mumbai
+Dr. Tanvi Tiwari,12,Pediatricia,1000,100% ,Khar West,Mumbai
+Dr. Sneha Nandkishor Rahatekar,11,Pediatricia,1500,100% ,Ghatkopar East,Mumbai
+Dr. Meghana Vasant Phadnis,5,Pediatricia,800,91% ,Cuffe Parade,Mumbai
+Dr. Jaydeep A Walinjkar,10,Pediatricia,1400,75% ,Wadala,Mumbai
+Dr. Ajit Pandey,4,Pediatricia,500,50% ,Juhu,Mumbai
+Ms. Shradha Bhair,4,Pediatricia,1500,99% ,Bandra West,Mumbai
+Ms. Khushboo Jain Tibrewala,14,Pediatricia,3000,96% ,Cumballa Hill,Mumbai
+Ms. Sonali Sikdar,9,Pediatricia,2500,100% ,Chembur East,Mumbai
+Dr. Saumeel Mehtalia,23,Pediatricia,3030,100% ,Bandra East,Mumbai
+Dr. Saloni Bhatia,5,Pediatricia,800,99% ,Bandra West,Mumbai
+Ms. Deepa Nandy,16,Pediatricia,2500,100% ,Andheri West,Mumbai
+Dr. Faizaan Rushnaiwala,13,Pediatricia,2500,95% ,Cuffe Parade,Mumbai
+Dr. Wasiyeeullah Shaikh,15,Pediatricia,3030,100% ,Bandra East,Mumbai
+Ms. Khushboo Jain,8,Pediatricia,2000,100% ,Marol,Mumbai
+Dr. Abhijit Girish Borse,12,Pediatricia,3030,67% ,Bandra East,Mumbai
+Dr. Manasa Nair   (Physiotherapist),11,Pediatricia,1500,97% ,Worli,Mumbai
+Ms. Nikita Agrawal,3,Pediatricia,800,96% ,Dadar East,Mumbai
+Dr. Prashant Sunil Chaudhari,10,Pediatricia,2000,100% ,Parel,Mumbai
+Dr. Amruta Godbole,19,Pediatricia,750,91% ,Khar West,Mumbai
+Ms. Aarti,10,Pediatricia,500,95% ,Andheri East,Mumbai
+Ms. Hetal Dharod,23,Pediatricia,1200,98% ,Kandivali West,Mumbai
+Ms. Anushree Chatterji,14,Pediatricia,1800,100% ,Chembur,Mumbai
+Dr. Archana Waghela,12,Pediatricia,800,99% ,Kandivali,Mumbai
+Ms. Nivedita Nayak,10,Pediatricia,1500,100% ,Malad,Mumbai
+Dr. Reena Chitnis   (Physiotherapist),23,Pediatricia,2000,99% ,Mahim,Mumbai
+Dr. Dharmendra Solanki (PhD)   (PhD),19,Pediatricia,2500,80% ,Malad West,Mumbai
+Dr. Bijal Patel   (Physiotherapist),15,Pediatricia,350,98% ,Goregaon East,Mumbai
+Dr. Pooja Sharma   (PhD),19,Pediatricia,1500,99% ,Powai,Mumbai
+Dr. Shweta Doctor   (Physiotherapist),23,Pediatricia,1500,100% ,Hajiali,Mumbai
+Ms. Rochelle Gomes,19,Pediatricia,3000,94% ,Bandra,Mumbai
+Ms. Pooja Jain,4,Pediatricia,1800,100% ,Worli,Mumbai
+Ms. Radhika Gawade,20,Pediatricia,2000,100% ,Bandra,Mumbai
+Ms. Vijal Sejpal,12,Pediatricia,2000,97% ,Andheri West,Mumbai
+Dr. Akshina Gupta   (Physiotherapist),9,Pediatricia,1500,100% ,Khar West,Mumbai
+Ms. Kavyal Sedani,6,Pediatricia,3400,99% ,Andheri West,Mumbai
+Ms. Barkha Patel,7,Pediatricia,2000,100% ,Andheri West,Mumbai
+Ms. Ishita Pateria,11,Pediatricia,4000,50% ,Girgaon,Mumbai
+Ms. Madhura Patwardhan,10,Pediatricia,2000,100% ,Powai,Mumbai
+Dr. Jagruti Parghi   (Physiotherapist),7,Pediatricia,500,88% ,Andheri,Mumbai
+Ms. Sonal Bhosale,16,Pediatricia,350,100% ,Kandivali West,Mumbai
+Dr. Thejas Thomas   (Physiotherapist),13,Pediatricia,1200,100% ,Cuffe Parade,Mumbai
+Ms. Rokayya Ara,11,Pediatricia,1000,100% ,Andheri West,Mumbai
+Ms. Sonali Patil,9,Pediatricia,450,100% ,Andheri West,Mumbai
+Ms. Bansi Mehta,9,Pediatricia,1200,100% ,Khar West,Mumbai
+Ms. Pooja Anand,2,Pediatricia,1500,100% ,Andheri West,Mumbai
+Ms. Jinisha Bhatt,6,Pediatricia,3000,67% ,Vileparle East,Mumbai
+Ms. Nupur Agarwala,8,Pediatricia,450,100% ,Lower Parel,Mumbai
+Ms. Nitika Shah (PT),9,Pediatricia,1400,100% ,Bandra West,Mumbai
+Dr. Manisha Sarode   (Physiotherapist),5,Pediatricia,350,100% ,Oshiwara,Mumbai
+Ms. Shruti Kainya,5,Pediatricia,2500,100% ,Worli,Mumbai
+Ms. Kritika Bose,2,Pediatricia,2200,100% ,Bandra West,Mumbai
+Ms. Siddhi Khapre,4,Pediatricia,1200,100% ,Lower Parel,Mumbai
+Ms. Sheena Prabhat Sood,3,Pediatricia,1500,98% ,Goregaon East,Mumbai
+Dr. Vishal Baldua,22,Pediatricia,800,98% ,Goregaon East,Mumbai
+Dr. Devang Bhanushali,16,Pediatricia,700,98% ,Mahim,Mumbai
+Dr. Yogen Chheda,10,Pediatricia,1200,100% ,Ghatkopar West,Mumbai
+Dr. Siddhesh Vijay Rane,10,Pediatricia,1500,100% ,Goregaon West,Mumbai
+Dr. Samir Ahire,15,Pediatricia,3030,100% ,Bandra East,Mumbai
+Dr. Snehal Thakkar,19,Pediatricia,1000,100% ,Andheri West,Mumbai
+Dr. Bhumita Shah,16,Pediatricia,200,100% ,Andheri West,Mumbai
+Dr. Hrishikesh Pai,40,Pediatricia,2000,100% ,Bandra West,Mumbai
+Dr. Shetty Kshiti,27,Pediatricia,450,100% ,Mulund West,Mumbai
+Dr. Krupa Doshi,11,Pediatricia,500,100% ,Vileparle East,Mumbai

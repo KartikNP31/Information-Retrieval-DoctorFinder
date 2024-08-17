@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Health Domain : Doctor Finder</title>
+  </head>
+  <body>
+    <h1 style="text-align: center">
+      IR Project : Health Domain Retrival - Find Doctor
+    </h1>
+    <form id="IR_form" , method="POST">
+      {% csrf_token %}
+      <div
+        style="
+          display: flex;
+          flex-direction: column;
+          border: 5px orangeRed solid;
+          width: 30%;
+          margin: auto;
+          border-radius: 10px;
+        "
+      >
+        <label for="city" style="margin: 2px auto">Enter City </label>
+        <input
+          style="width: 70%; margin: 2px auto"
+          type="text"
+          id="city"
+          name="city"
+        />
+        <label for="Specialty" style="margin: 2px auto">
+          Enter Specialty
+        </label>
+        <input
+          style="width: 70%; margin: 2px auto"
+          type="text"
+          id="Specialty"
+          name="Specialty"
+        />
+
+        <label for="locality" style="margin: 2px auto"> Enter Locality </label>
+        <p style="text-align : center; margin : 0%; font-size : 12px"> Optional / Filter</p>
+        <input
+          style="width: 70%; margin: 2px auto"
+          type="text"
+          id="locality"
+          name="locality"
+        />
+        <button
+          style="
+            margin: 2px auto;
+            background-color: #2277ff;
+            color: white;
+            width: 50%;
+            height: 30px;
+            border-radius: 5px;
+            font-size: 15px;
+            font-weight: bold;
+          "
+          type="submit"
+        >
+          Submit
+        </button>
+      </div>
+    </form>
+
+    <div id="result">
+      <h2 style="margin-top: 1vw; text-align: center">
+        Retrieved Top 20 Documents
+      </h2>
+      <h3 style="display: inline">
+        Showing Result for your Query :
+        <span style="color: red; display: none" id="queryShow"
+          >Loading <i class="fas fa-spinner fa-spin"></i
+        ></span>
+        <span style="color: red; display: none" id="queryShowAgain"
+          >Loading <i class="fas fa-spinner fa-spin"></i
+        ></span>
+      </h3>
+      <table
+        id="doctorsTable"
+        style="width: 80%; margin: 0 auto; border-collapse: collapse"
+      >
+        <thead>
+          <tr>
+            <th style="text-align: left">DocumentID</th>
+            <th style="text-align: left">Doctor Name</th>
+            <th style="text-align: left">Experience</th>
+            <th style="text-align: left">Specialty</th>
+            <th style="text-align: left">Fees</th>
+            <th style="text-align: left">Rating</th>
+            <th style="text-align: left">Locality</th>
+            <th style="text-align: left">City</th>
+            <th style="text-align: left">Feedback</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <div style="display: flex">
+        {% csrf_token %}
+        <button
+          id="showPRCurve"
+          style="
+            width: auto;
+            height: auto;
+            padding: 0.5vw 4vw;
+            font-size: 20px;
+            font-weight: bold;
+            color: white;
+            background-color: green;
+            border-radius: 5px;
+            justify-content: center;
+            margin: 2vw auto;
+          "
+          type="submit"
+        >
+          Show P-R Curve
+        </button>
+      </div>
+    </div>
+
+    <script
+      src="https://kit.fontawesome.com/1b34bcf330.js"
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      document.getElementById("IR_form").addEventListener("submit", async function (event) {
+          event.preventDefault();
+
+          document.getElementById("queryShow").style.display = "inline-block";
+          document.getElementById("queryShow").innerHTML =
+            document.getElementById("queryShowAgain").innerHTML;
+          const query1 = document.getElementById("city").value.toLowerCase();
+          const query2 = document
+            .getElementById("Specialty")
+            .value.toLowerCase();
+          const query3 = document
+            .getElementById("locality")
+            .value.toLowerCase();
+          const query = query1 + " " + query2 + " " + query3;
+          console.log("🚀 ~ file: Index.html:139 ~ query:", typeof(query))
+
+          const response = await fetch("/search/", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/x-www-form-urlencoded",
+            },
+            body: `query=${query}`,
+          });
+
+          const data = await response.json();
+          console.log(
+            "🚀 ~ file: Index.html:105 ~ document.getElementById ~ data:",
+            data.data[0]
+          );
+          console.log(
+            "🚀 ~ file: Index.html:104 ~ document.getElementById ~ data:",
+            data
+          );
+          displayDoctors(data, query);
+        });
+
+      const relevance = {};
+      function displayDoctors(doctors, query) {
+        if (doctors.data.length > 0) {
+          document.getElementById("queryShow").innerHTML = query;
+          const tableBody = document.querySelector("#doctorsTable tbody");
+          tableBody.innerHTML = ""; // Clear previous data
+          doctors.data.forEach((doctor) => {
+            const row = document.createElement("tr");
+            relevance[doctor.DocumentID] = 1;
+            row.innerHTML = `
+                <td>${doctor.DocumentID}</td>
+                <td>${doctor.DoctorName}</td>
+                <td>${doctor.Experience}</td>
+                <td>${doctor.Speciality}</td>
+                <td>${doctor.Fees}</td>
+                <td>${doctor.Rating}</td>
+                <td>${doctor.Locality}</td>
+                <td>${doctor.City}</td>
+                <td>
+                  <button data-docid=${doctor.DocumentID} class='like'><i class="fa-solid fa-thumbs-up"></i></button>
+                  <button data-docid=${doctor.DocumentID} class='dislike' style="margin : 0 0 0 5px"><i class="fa-solid fa-thumbs-down" style="padding :0;"></i></button>
+                </td>
+              `;
+            tableBody.appendChild(row);
+          });
+        } else {
+          document.getElementById("queryShow").innerHTML =
+            "No Relevant Document found. Please Enter Valid Query";
+        }
+        console.log(relevance);
+        console.log("🚀 ~ file: Index.html:191 ~ displayDoctors ~ typeof(relevance):",  typeof(relevance))
+      }
+
+
+      document.getElementById("showPRCurve").addEventListener("click", async function (event) {
+        event.preventDefault();
+        const url = '/showPR_curve/';
+        const csrftoken = document.querySelector('[name=csrfmiddlewaretoken]').value; // Get CSRF token
+      
+        const formData = new FormData(); // Create a FormData object
+        formData.append('relevance', JSON.stringify(relevance)); // Append relevance data
+        
+        try {
+          const response = await fetch(url, {
+            method: 'POST',
+            headers: {
+              'X-CSRFToken': csrftoken,
+            },
+            body: formData,
+          });
+      
+          if (response.ok) {
+            console.log('Relevance object sent successfully.');
+            // Handle success if needed
+          } else {
+            console.error('Failed to send relevance object.');
+            // Handle error if needed
+          }
+        } catch (error) {
+          console.error('Error sending relevance object:', error);
+          // Handle error if needed
+        }
+      });
+
+      
+
+
+      // Function to handle the click on like/dislike buttons
+      function handleButtonClick(event) {
+        const button = event.target;
+        const docID = button.getAttribute("data-docid");
+        console.log(
+          "🚀 ~ file: Index.html:169 ~ handleButtonClick ~ docID:",
+          docID
+        );
+
+        if (button.classList.contains("like")) {
+          {% comment %} document.getElementById(docID).style.backgroundColor = 'green'; {% endcomment %}
+          relevance[docID] = 1; // Set relevance to 1 for like
+        } else if (button.classList.contains("dislike")) {
+          relevance[docID] = 0; // Set relevance to 0 for dislike
+          {% comment %} document.getElementById(docID).style.backgroundColor = 'red'; {% endcomment %}
+        }
+
+        console.log("🚀 ~ file: Index.html:164 ~ relevance:", relevance); // Display updated relevance object
+      }
+
+      // Add event listeners to the document for click events on like/dislike buttons
+      document.addEventListener("click", function (event) {
+        if (
+          event.target.classList.contains("like") ||
+          event.target.classList.contains("dislike")
+        ) {
+          handleButtonClick(event);
+        }
+      });
+    </script>
+  </body>
+</html>
